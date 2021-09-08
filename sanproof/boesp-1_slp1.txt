@@ -1,7 +1,7 @@
 ; ---------------------------------------------
 ; 1 : page 1.1
-    aMSo 'pi duzwadizwAnAM parezAM syAdvinASakft .
-    vAlaleSo 'pi vyAGrARAM patsyAjjIvitahAnaye ..
+    aMSo'pi duzwadizwAnAM parezAM syAdvinASakft .
+    vAlaleSo'pi vyAGrARAM yatsyAjjIvitahAnaye ..
 ; ---------------------------------------------
 ; 2 : page 1.1
     akaRWasya kaRWe kaTaM puzpamAlA vinA nAsikAyAH kaTaM DUpaganDaH .
@@ -33,7 +33,7 @@
 ; ---------------------------------------------
 ; 9 : page 1.2
     akasmAdeva tanvaNgI jahAsa yadiyaM punaH .
-    nUnaM prasUnabARo 'syAM svArAjyamaDitizWati ..
+    nUnaM prasUnabARo'syAM svArAjyamaDitizWati ..
 ; ---------------------------------------------
 ; 10 : page 1.2
     akasmAdeva yaH kopAdaBIkzRaM bahu BAzate .
