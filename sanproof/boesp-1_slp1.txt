@@ -45,12 +45,12 @@
 ; ---------------------------------------------
 ; 12 : page 1.2
 +   <s>akasmAdyuvatI vfdDaM</s> s. Spr. <s>nAkasmAdyuvatI vfdDaM</s>.
-    akARqakopino BarturanyAsaktoSca yozitaH .
+    akARqakopino BarturanyAsakteSca yozitaH .
     praSAntiScetasaH kartuM brahmaRApi na Sakyate ..
 ; ---------------------------------------------
 ; 13 : page 1.3
     akARqapAtajAtAnAmArdrARAM marmaBedinAm .
-    gAQaSokaprahAraRAmacintOva mahOzaDam ..
+    gAQaSokaprahArARAmacintEva mahOzaDam ..
 ; ---------------------------------------------
 ; 14 : page 1.3
     akAmasya kriyA kAciddfSyate neha karhicit .
@@ -69,15 +69,15 @@
     akAle mantraBedAcca yena mAdyenna tatpibet ..
 ; ---------------------------------------------
 ; 18 : page 1.4
-    akAryaM taTyaM vA Bavati vitaTaM vA kimaparaM pratIte loke 'sminharati mahimAnaM janaravaH .
+    akAryaM taTyaM vA Bavati vitaTaM vA kimaparaM pratIte loke'sminharati mahimAnaM janaravaH .
     tulottIrRasyApi prakawanihatASezatamaso ravestAdfktejo nahi Bavati kanyAM gatavataH ..
 ; ---------------------------------------------
 ; 19 : page 1.4
     akAryamasakftkftvA dfSyante hyaDamA narAH .
-    DanayuktAH svakarmasTA dfSyante cApare 'DanAH ..
+    DanayuktAH svakarmasTA dfSyante cApare'DanAH ..
 ; ---------------------------------------------
 ; 20 : page 1.4
-    akaryARyapi paryApya kftvApi vfjinArjanam .
+    akAryARyapi paryApya kftvApi vfjinArjanam .
     viDIyate hitaM yasya sa dehaH kasya susTiraH ..
 ; ---------------------------------------------
 ; 21 : page 1.4
@@ -86,21 +86,21 @@
     paSyARqajaH padmavane prasupto Danurvimuktena SareRa BinnaH ..
 ; ---------------------------------------------
 ; 22 : page 1.5
-    akAlayuktasEnyastu hanyate kALayoDinA .
+    akAlayuktasEnyastu hanyate kAlayoDinA .
     kOSikena hatajyotirniSITa iva vAyasaH ..
 ; ---------------------------------------------
 ; 23 : page 1.5
-    akAlasahamatpalpaM mUrKavyasaninAyakam .
+    akAlasahamatyalpaM mUrKavyasaninAyakam .
     aguptaM BIruyoDaM ca durgavyasanamucyate ..
 ; ---------------------------------------------
 ; 24 : page 1.5
 +   <s>akAlasEnyayuktastu</s> s. Spr. 22.
-    akAle kftyamArabDaM karturTAya kalyate .
-    tadeva kAla ArabDaM mahate 'rTAya kalyate ..
+    akAle kftyamArabDaM karturnATAya kalpate .
+    tadeva kAla ArabDaM mahate'rTAya kalpate ..
 ; ---------------------------------------------
 ; 25 : page 1.5
     akiMcanaH paripatansuKamAsvAdayizyasi .
-    akiMcanaH suKaM Sete sumuttizWati cEva ha ..
+    akiMcanaH suKaM Sete samuttizWati cEva ha ..
 ; ---------------------------------------------
 ; 26 : page 1.5
     akiMcanasya dAntasya SAntasya samacetasaH .
@@ -112,10 +112,10 @@
 ; ---------------------------------------------
 ; 28 : page 1.6
     akIrtiM vinayo hanti hantyanarTaM parAkramaH .
-    hanti nityaM kroDamAcAro hantyalakzaRam ..
+    hanti nityaM kzamA kroDamAcAro hantyalakzaRam ..
 ; ---------------------------------------------
 ; 29 : page 1.6
-    akIrtirnindyate devEH kIrtirlokezu pUsyate .
+    akIrtirnindyate devEH kIrtirlokezu pUjyate .
     kIrtyarTaM tu samAramBaH sarvezAM sumahAtmanAm ..
 ; ---------------------------------------------
 ; 30 : page 1.6
@@ -127,8 +127,8 @@
     saMsArakAraRam yozidyozitaM varjayettataH ..
 ; ---------------------------------------------
 ; 32 : page 1.6
-+   <s>akurveto 'pi</s> s. den folgenden Spruch.
-    akurvanto 'pi pApAni SucayaH pApasaMSrayAt .
++   <s>akurveto'pi</s> s. den folgenden Spruch.
+    akurvanto'pi pApAni SucayaH pApasaMSrayAt .
     parapApErvinaSyanti matsyA nAgahrade yaTA ..
 ; ---------------------------------------------
 ; 33 : page 1.6
@@ -137,23 +137,23 @@
     saMyogaM viprayogaM ca paSyanti cirajIvinaH ..
 ; ---------------------------------------------
 ; 34 : page 1.7
-    akulIno 'pi mUrKo 'pi BUpAlaM yo 'tra sevate .
-    api saMmAnahIno 'pi sa sarvatra prapUjyate ..
+    akulIno'pi mUrKo'pi BUpAlaM yo'tra sevate .
+    api saMmAnahIno'pi sa sarvatra prapUjyate ..
 ; ---------------------------------------------
 ; 35 : page 1.7
-    akftajYamakAryajYaM dIrGa rozamanArjavam .
+    akftajYamakAryajYaM dIrGarozamanArjavam .
     caturo vidDi caRqAlAYjanmanA saha paYcamam ..
 ; ---------------------------------------------
 ; 36 : page 1.7
-    akftatyAgamahimnAMmiTyA kiM rAjarAjaSabdena .
+    akftatyAgamahimnAM miTyA kiM rAjarAjaSabdena .
     goptAraM na niDInAM mahayanti maheSvaraM vibuDAH ..
 ; ---------------------------------------------
 ; 37 : page 1.7
-    akfte 'pyudyume puMsAmanyajanmakftaM Palam .
+    akfte'pyudyame puMsAmanyajanmakftaM Palam .
     SuBASuBaM samaByeti viDinA saMniyojitam ..
 ; ---------------------------------------------
 ; 38 : page 1.7
-    akftezveva kAryezu mftyurvE saprakarzati .
+    akftezveva kAryezu mftyurvE saMprakarzati .
     yuvEva DarmaSIlaH syAdanimittaM hi jIvitam ..
 ; ---------------------------------------------
 ; 39 : page 1.7
@@ -161,7 +161,7 @@
     pUjayanti narA nAgAnna tArkzyaM nAgaGAtinam ..
 ; ---------------------------------------------
 ; 40 : page 1.8
-    akftyaM nEva kartavyaM prARatyAge 'pi saMsTite .
+    akftyaM nEva kartavyaM prARatyAge'pi saMsTite .
     na ca kftyaM parityAjyaM Darma eza sanAtanaH ..
 ; ---------------------------------------------
 ; 41 : page 1.8
@@ -183,7 +183,7 @@
 ; ---------------------------------------------
 ; 45 : page 1.8
     akftvA pOruzaM yA SrIH kiM tayApi suBogyayA .
-    jaradgavo 'pi cASnAti dEvAdupagataM taRam ..
+    jaradgavo'pi cASnAti dEvAdupagataM tfRam ..
 ; ---------------------------------------------
 ; 46 : page 1.9
     akftvA mAnuzaM karma yo dEvamanuvartate .
@@ -191,11 +191,11 @@
 ; ---------------------------------------------
 ; 47 : page 1.9
     akfzwaPalamUlena vanavAsarataH sadA .
-    kurute 'harahaH SrAdDamfzirvipraH sa ucyate ..
+    kurute'harahaH SrAdDamfzirvipraH sa ucyate ..
 ; ---------------------------------------------
 ; 48 : page 1.9
 +   <s>akroDanaH kruDyatAM vE</s> s. den folgenden Spruch.
-    akroDanaH kroDaneByo viSizwastaTA titikzuratitikzorvi SizwaH .
+    akroDanaH kroDaneByo viSizwastaTA titikzuratitikzorviSizwaH .
     amAnuzeByo mAnuzASca praDAnA vidvAMstaTEvAviduzaH praDAnaH ..
 ; ---------------------------------------------
 ; 49 : page 1.9
