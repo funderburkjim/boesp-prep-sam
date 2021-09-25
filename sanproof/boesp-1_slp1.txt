@@ -2011,7 +2011,7 @@
     asadBiH saMprayogaSca tadduHKaM cirajIvinAm ..
 ; ---------------------------------------------
 ; 477 : page 1.88
-    apriyo 'pi hi paTyaH syAditi vfdDAnuSAsanam .
+    apriyo'pi hi paTyaH syAditi vfdDAnuSAsanam .
     vfdDAnuSAsane tizWanpriyatAmaDigacCati ..
 ; ---------------------------------------------
 ; 478 : page 1.88
@@ -2032,7 +2032,7 @@
     abudDimASritAnAM tu kzantavyamaparADinAm .
     nahi sarvatra pARqityaM sulaBaM puruzeRa vE ..
     aTa cedbudDijaM kftvA brUyuste tadabudDijam .
-    pApAnsvalpe 'pi tAnhanyAdaparADe taTAnfjUn ..
+    pApAnsvalpe'pi tAnhanyAdaparADe taTAnfjUn ..
 ; ---------------------------------------------
 ; 483 : page 1.89
     abudDvA cittamaprApya viSramBaM praBavizRuzu .
@@ -2044,15 +2044,15 @@
 ; ---------------------------------------------
 ; 485 : page 1.89
     aBayaM sarvaBUteByo yo dadAti dayAparaH .
-    tasya dehavimuktasya kzaya na vidyate ..
+    tasya dehavimuktasya kzaya eva na vidyate ..
 ; ---------------------------------------------
 ; 486 : page 1.89
     aBayasya hi yo dAtA tasyEva sumahatPalam .
-    nahi prARasamaM dAnaM triza lokezu vidyate ..
+    nahi prARasamaM dAnaM trizu lokezu vidyate ..
 ; ---------------------------------------------
 ; 487 : page 1.89
     aBinavanalinIvinodalubDo mukulitakEraviRIviyogaBIruH .
-    Bramati maDukaro 'yamantarAle Srayati na paNkajinIM kumudvatIM vA ..
+    Bramati maDukaro'yamantarAle Srayati na paNkajinIM kumudvatIM vA ..
 ; ---------------------------------------------
 ; 488 : page 1.90
     aBinavasevakavinayEH prAGUrRoktErvilAsinIruditEH .
@@ -2064,8 +2064,8 @@
 ; ---------------------------------------------
 ; 490,491 : page 1.90
     aBiprAyaM yo viditvA tu BartuH sarvARi kAryARi karotyatandrI .
-    vaktA hitAnAmanurakta AryaH SaktijYa Atmeva hi so 'nukampyaH ..
-    vAkyaM tu yo nAdriyate 'nuSizwaH pratyAha yaScApi niyujyamAnaH .
+    vaktA hitAnAmanurakta AryaH SaktijYa Atmeva hi so'nukampyaH ..
+    vAkyaM tu yo nAdriyate'nuSizwaH pratyAha yaScApi niyujyamAnaH .
     prajYABimAnI pratikUlavAdI tyAjyaH sa tAdfktvarayEva BftyaH ..
 ; ---------------------------------------------
 ; 492 : page 1.90
@@ -2073,8 +2073,8 @@
     aho mahApraBAvARAM BUpatIMnAM vasuMDarA ..
 ; ---------------------------------------------
 ; 493 : page 1.90
-    aBimataPaladAtA tvaM ca kalpadrumaSca prakarwamiha viSezaM kaMcanodAharAmaH .
-    kaTamiva maDuroktipremasaMmAnamiSraM tulayati suraSAKIM deva dAnaM tvadIyam ..
+    aBimataPaladAtA tvaM ca kalpadrumaSca prakawamiha viSezaM kaMcanodAharAmaH .
+    kaTamiva maDuroktipremasaMmAnamiSraM tulayati suraSAKI deva dAnaM tvadIyam ..
 ; ---------------------------------------------
 ; 494 : page 1.91
     aBimatamahAmAnagranTipraBedapawIyasI gurutaraguRagrAmAmBojasPuwojjvalacandrikA .
@@ -2082,11 +2082,11 @@
 ; ---------------------------------------------
 ; 495 : page 1.91
     aBimatasidDiraSezA Bavati hi puruzasya puruzakAreRa .
-    dEvamiti yadapi kaTayasi puruzaguRaH so 'pyadfzwAKyaH ..
+    dEvamiti yadapi kaTayasi puruzaguRaH so'pyadfzwAKyaH ..
 ; ---------------------------------------------
 ; 496 : page 1.91
     aBimAnavatAM brahmanyuktAyuktavivekinAm .
-    yujyate 'vaSyaBogmAnAM duHKanAmaprakASanam ..
+    yujyate'vaSyaBogyAnAM duHKanAmaprakASanam ..
 ; ---------------------------------------------
 ; 497 : page 1.91
     aBimAnaH SriyaM hanti puruzasyAlpameDasaH .
@@ -2097,7 +2097,7 @@
     kroDanaM cEva nfpatiM vyasane Gnanti vEriRaH ..
 ; ---------------------------------------------
 ; 499 : page 1.92
-    aBimuKanihatasya satastizWatu tAvajjayo 'Ta vA svargaH .
+    aBimuKanihatasya satastizWatu tAvajjayo'Ta vA svargaH .
     uBayabalasADuvAdaH SravaRasuKasyEva tAtparyam ..
 ; ---------------------------------------------
 ; 500 : page 1.92
@@ -2111,7 +2111,7 @@
 ; 502 : page 1.92
 +   <s>aBiyukto yadA</s> s. Spruch 566.
     aBiyoktA balIyastvAdalabDvA na nivartate .
-    upahArAdfte tasmAtsamDiranyo na vidyate ..
+    upahArAdfte tasmAtsaMDiranyo na vidyate ..
 ; ---------------------------------------------
 ; 503 : page 1.92
     aBilazyaM sTiraM puRyaM KyAtaM sADunizevitam .
@@ -2131,9 +2131,9 @@
     dAridryaM pAtakaM loke na tacCaMsitumarhati ..
 ; ---------------------------------------------
 ; 507 : page 1.93
-+   <s>aBizakto hyaBizajet</s> s. nach Spruch <s>yadi na syurmAnuzez</s>.
++   <s>aBizakto hyaBizajet</s> s. nach Spruch <s>yadi na syurmAnuzezu</s>.
     aBuktAyAM yasyAM kzaRamapi na yAtaM nfpaSatErBuvastasyA lABe ka iva bahumAnaH kzitiBujAm .
-    tadaMSasyApyaMSe tadavayavaleSe 'pi patayo vizAde kartavye vidaDati jaqAH pratyuta mudam ..
+    tadaMSasyApyaMSe tadavayavaleSe'pi patayo vizAde kartavye vidaDati jaqAH pratyuta mudam ..
 ; ---------------------------------------------
 ; 508 : page 1.93
     aBuktvA rahasi gataM viviktamanyena BAzamARaM ca .
@@ -2163,7 +2163,7 @@
 ; 514 : page 1.94
 +   <s>aByutsekena sahasA</s> s. Spruch 179.
 +   <s>aByunnatiM prApya naraH</s> s. Spruch 182.
-+   <s>aByunnato 'mbuBirmeGaH</s> s. Spruch 183. [Seite1.95]
++   <s>aByunnato'mbuBirmeGaH</s> s. Spruch 183. [Seite1.95]
     aBracCAyA KalaprItiH samudrAnte ca medinI .
     alpenEva vinaSyanti yovanAni DanAni ca ..
 ; ---------------------------------------------
@@ -2181,7 +2181,7 @@
 ; ---------------------------------------------
 ; 518 : page 1.95
 +   <s>amAtyalABo BadraM te</s> s. nach Spruch <s>balaM paYcaviDaM nityam</s>.
-+   <s>amitraM kurute mitraM vIryA°</s> s. Spruch <s>yo 'mitraM kurute mitraM vIryA°</s>.
++   <s>amitraM kurute mitraM vIryA°</s> s. Spruch <s>yo'mitraM kurute mitraM vIryA°</s>.
     amitraM kurute mitraM mitraM dvezwi hinasti ca .
     karma cAraBate duzwaM tamAhurmUQacetasam ..
 ; ---------------------------------------------
@@ -2195,7 +2195,7 @@
 ; ---------------------------------------------
 ; 521 : page 1.96
 +   <s>amitrARyapi</s> s. Spruch 522.
-    amitrAdunnatiM prApya nonnato 'smIti viSvaset .
+    amitrAdunnatiM prApya nonnato'smIti viSvaset .
     tasmAtprApyonnatiM naSyetprAvAra iva kIwakaH ..
 ; ---------------------------------------------
 ; 522 : page 1.96
@@ -2212,7 +2212,7 @@
 ; ---------------------------------------------
 ; 525 : page 1.96
     amIzAM jantUnAM katipayanimezasTitijuzAM viyogo DIrARAM ka iha paritApasya vizayaH .
-    kzaRAdutpadyante vilayamapi yAnti kzaRamamI na ke 'pi sTAtAra; suragiripayoDipraBftayaH ..
+    kzaRAdutpadyante vilayamapi yAnti kzaRamamI na ke'pi sTAtAraH suragiripayoDipraBftayaH ..
 ; ---------------------------------------------
 ; 526 : page 1.97
     amIzAM prARAnAM tulitabisinIpattrapayasAM kfte kiM nAsmABirvigalitavivekErvyavasitam .
@@ -2233,7 +2233,7 @@
 ; ---------------------------------------------
 ; 530 : page 1.97
     amftaM cEva mftyuSca dvayaM dehe pratizWitam .
-    mftyurApadyate mohAtsatyenApadyate 'mftam ..
+    mftyurApadyate mohAtsatyenApadyate'mftam ..
 ; ---------------------------------------------
 ; 531 : page 1.98
     amftapAyinAM nFRAM saMtozo nEva jAyate .
@@ -2251,7 +2251,7 @@
 ; ---------------------------------------------
 ; 534 : page 1.98
     amftasya pravAhEH kiM kAyakzAlanasaMBavEH .
-    cirAnmitraparizvaNgo yo 'sO mUlyavivarjitaH ..
+    cirAnmitraparizvaNgo yo'sO mUlyavivarjitaH ..
 ; ---------------------------------------------
 ; 535 : page 1.98
     amftasyeva kuRqAni suKAnAmiva rASayaH .
@@ -2259,7 +2259,7 @@
 ; ---------------------------------------------
 ; 536 : page 1.99
     amftasyeva saMtfpyedavamAnasya paRqitaH .
-    suKaM hyavamataH Sete yo 'vamantA sa naSyati ..
+    suKaM hyavamataH Sete yo'vamantA sa naSyati ..
 ; ---------------------------------------------
 ; 537 : page 1.99
     amftAtmani padmanAM dvezwari snigDatArake .
@@ -2276,10 +2276,10 @@
 ; ---------------------------------------------
 ; 540 : page 1.99
     ambA tuzyati na mayA snuzayA sApi nAmbayA na mayA .
-    ahamapi na tayA na tayA vada rAjankasya dozo 'yam ..
+    ahamapi na tayA na tayA vada rAjankasya dozo'yam ..
 ; ---------------------------------------------
 ; 541 : page 1.99
-    amBasA Bidyate setustaTA mantro 'pyarakzitaH .
+    amBasA Bidyate setustaTA mantro'pyarakzitaH .
     pESunyAdBidyate sneho vAgBirBedyo hi kAtaraH .. [Seite1.100] 
 ; ---------------------------------------------
 ; 542 : page 1.100
@@ -2287,8 +2287,8 @@
     svaBUmiH SvApadAdInAM rAjYAM sEnyaM paraM balam ..
 ; ---------------------------------------------
 ; 543 : page 1.100
-    amBojAni GanAGanavyavahito 'pyullAGayatyaMSumA-
-      ndUrasTo 'pi payoDaro 'tiSiSirasparSaM karotyAtapam .
+    amBojAni GanAGanavyavahito'pyullAGayatyaMSumA-
+      ndUrasTo'pi payoDaro'tiSiSirasparSaM karotyAtapam .
     SaktiH kApyaparIkzitAsti mahatAM svEraM davizWAnyaho
       yanmAhAtmyavaSena yAnti GawanAM kAryARi niryantraRam ..
 ; ---------------------------------------------
@@ -2300,39 +2300,39 @@
     aByoDiH sTalatAM sTalaM jalaDitAM DUlIlavaH SElatAM
       merurmftkaRatAM tfRaM kuliSatAM vajraM tfRaklIbatAM .
     vahniH SItalatAM himaM dahanatAmAyAti yasyecCayA
-      lIlAdurlalitAdButavyasaninedEvAya tasmE namaH ..
+      lIlAdurlalitAdButavyasanine dEvAya tasmE namaH ..
 ; ---------------------------------------------
 ; 546 : page 1.101
     ayaM vArAmeko nilaya iti ratnAkara iti
-      Srito 'smABistfzRAtaralitamanoBirjalaniDiH .
+      Srito'smABistfzRAtaralitamanoBirjalaniDiH .
     ka evaM jAnIte nijakarapuwIkowaragataM
       kzaRAdenaM tAmyattimimakaramApAsyati muniH ..
 ; ---------------------------------------------
 ; 547 : page 1.101
-    ayaHpiRqa ivottapto KalAnAM hfdaye kzaRat .
-    patitA iva nekzyante guRastoyakaRA iva ..
+    ayaHpiRqa ivottapte KalAnAM hfdaye kzaRat .
+    patitA iva nekzyante guRAstoyakaRA iva ..
 ; ---------------------------------------------
 ; 548 : page 1.101
     ayaM ca suratajvAlaH kAmAgniH praRayenDanaH .
     narARAM yatra hUyante yOvanAni DanAni ca ..
 ; ---------------------------------------------
 ; 549 : page 1.101
-    ayaM daridro Baviteti vEDasIM lipiM lalAwe 'rTijanasya jAgratIm .
-    mfzA na cakre 'lpiyatakalpapAdapaH praRIya dAridryadaridratAM nfpaH ..
+    ayaM daridro Baviteti vEDasIM lipiM lalAwe'rTijanasya jAgratIm .
+    mfzA na cakre'lpitakalpapAdapaH praRIya dAridryadaridratAM nfpaH ..
 ; ---------------------------------------------
 ; 550 : page 1.102
     ayaM nijaH paro veti gaRanA laGucetasAm .
     udAracaritAnAM tu vasuDEva kuwumbakam ..
 ; ---------------------------------------------
 ; 551 : page 1.102
-    ayamamftaniDAnaM nAyako 'pyozaDInA-
-      mamftamayaSarIraH kAntiyukto 'pi candraH .
+    ayamamftaniDAnaM nAyako'pyozaDInA-
+      mamftamayaSarIraH kAntiyukto'pi candraH .
     Bavati vigataraSmirmaRqalaM prApya BAnoH
       parasadananivizwaH ko laGutvaM na yAti ..
 ; ---------------------------------------------
 ; 552 : page 1.102
     ayamavasara upakftaye prakfticalA yAvadasti saMpadiyam .
-    vipadi sadAByudayinyAM punarupakartuM kuto 'vasaraH ..
+    vipadi sadAByudayinyAM punarupakartuM kuto'vasaraH ..
 ; ---------------------------------------------
 ; 553 : page 1.102
     ayamavasaraH saraste salilErupakartumarTinAmaniSam .
@@ -2344,7 +2344,7 @@
 ; ---------------------------------------------
 ; 555 : page 1.103
     ayamAndolitaprOQacandanadrumapallavaH .
-    utpAdayati sarvasya prrItiM malayamArutaH ..
+    utpAdayati sarvasya prItiM malayamArutaH ..
 ; ---------------------------------------------
 ; 556 : page 1.103
     ayamAlohitacCAyo madena muKacandramAH .
@@ -2363,12 +2363,12 @@
     tadayamacireRa BavitA salilAYjalidAnayogyaste ..
 ; ---------------------------------------------
 ; 560 : page 1.104
-    ayi tyaktAsi kastuUri pAmarEH paNkaSaNkayA .
+    ayi tyaktAsi kastUri pAmarEH paNkaSaNkayA .
     alaM Kedena BUpAlAH kiM na santi mahItale ..
 ; ---------------------------------------------
 ; 561 : page 1.104
     ayi manmaTacUtamaYjari SravaRAyatalocane priye .
-    apahftya manaH kva yAsi se kimarAjakamatra vartate ..
+    apahftya manaH kva yAsi me kimarAjakamatra vartate ..
 ; ---------------------------------------------
 ; 562 : page 1.104
     ayi vijahIhi dfQopagUhanaM tyaja navasaMgamaBIru vallaBam .
@@ -2392,7 +2392,7 @@
 ; ---------------------------------------------
 ; 567 : page 1.105
     arakzitaM tizWati dEvarakzitaM surakzitaM dEvahataM vinaSyati .
-    jIvatyanATo 'pi vane visarjitaH kftaprayatno 'pi gfhe na jIvati ..
+    jIvatyanATo'pi vane visarjitaH kftaprayatno'pi gfhe na jIvati ..
 ; ---------------------------------------------
 ; 568 : page 1.105
     arakzitAraM rAjAnaM balizaqBAgahAriRam .
@@ -2420,8 +2420,8 @@
     CettumapyAgate CAyAM nopasaMharate drumaH ..
 ; ---------------------------------------------
 ; 574 : page 1.106
-    arito 'ByAgato Bftyo dfzwastatsaNgatatparaH .
-    apasarpyaH saDarmatvAnnityedvigI ca dUzitaH ..
+    arito'ByAgato Bftyo dfzwastatsaNgatatparaH .
+    apasarpyaH saDarmatvAnnityodvegI ca dUzitaH ..
 ; ---------------------------------------------
 ; 575 : page 1.107
     aripakzASrite mitre marmavedipriyaMvade .
@@ -2448,13 +2448,13 @@
 ; 580,581 : page 1.107
 +   <s>arcayedeva mitrARi</s> s. Spruch 590.
     arjitaM svena vIryeRa nApyapASritya kaM ca na .
-    PalaSAkamapi Sre yo BoktuM hyakfpaRaM gfhe ..
+    PalaSAkamapi Sreyo BoktuM hyakfpaRaM gfhe ..
     parasya tu gfhe BoktuH pariBUtasya nityaSaH .
-    sumfzwamapi na Sre yo vikalpo 'yamataH satAm ..
+    sumfzwamapi na Sreyo vikalpo'yamataH satAm ..
 ; ---------------------------------------------
 ; 582 : page 1.108
     arTa eva hi kezAMcidanarTaM Bajate nfRAm .
-    arTaSreyasi cAsakto na Sre yo vindate naraH ..
+    arTaSreyasi cAsakto na Sreyo vindate naraH ..
 ; ---------------------------------------------
 ; 583 : page 1.108
 +   <s>arTaH pAdarajaHsamaH</s> s. Spruch 599.
@@ -2469,7 +2469,7 @@
     arTaprARavinASasaMSayakarIM prApyApadaM dustarAM
       pratyAsannaBayo na vetti viBavaM svaM jIvitaM kANkzati .
     uttIrRastu tato DanArTamaparAM BUyo viSatyApadaM
-      prARAnAM ca Danasya cADamaDiyAmanyahetuH paRaH .. [Seite1.109] 
+      prARAnAM ca Danasya cADamaDiyAmanyo'nyahetuH paRaH .. [Seite1.109] 
 ; ---------------------------------------------
 ; 586 : page 1.109
     arTamanarTaM BAvaya nityaM nAsti tataH suKaleSaH satyam .
@@ -2486,7 +2486,7 @@
 ; ---------------------------------------------
 ; 589 : page 1.109
     arTayuktimavijYAya yaH prItO kurute manaH .
-    mitro vA yadi vA SatrO tasyApi calitA matiH ..
+    mitre vA yadi vA SatrO tasyApi calitA matiH ..
 ; ---------------------------------------------
 ; 590 : page 1.109
     arTayedeva mitrARi sati vAsati vA Dane .
@@ -2502,14 +2502,14 @@
 ; ---------------------------------------------
 ; 593 : page 1.110
     arTasya puruzo dAso dAsastvarTo na kasyacit .
-    iti satyaM mahArAja badDo 'smyarTena kOravEH ..
+    iti satyaM mahArAja badDo'smyarTena kOravEH ..
 ; ---------------------------------------------
 ; 594 : page 1.110
     arTasya mUlaM nikftiH kzamA ca kAmasya mUlaM ca vapurvayaSca .
     Darmasya mUlaM ca dayA damaSca mokzasya mUlaM paramAH kriyAstu ..
 ; ---------------------------------------------
 ; 595 : page 1.110
-    arTasyotpAdane cEva pAlane ca taTA kzayE .
+    arTasyotpAdane cEva pAlane ca taTA kzaye .
     sahanti ca mahadduHKaM Gnanti cEvArTakAraRAt ..
 ; ---------------------------------------------
 ; 596 : page 1.110
@@ -2517,7 +2517,7 @@
     araRyaM mahadAsAdya mUQaH somilako yaTA ..
 ; ---------------------------------------------
 ; 597 : page 1.110
-    arTaH sukaM kIrtirapIha mA BUdanarTa evAstu taTApi DIrAH .
+    arTaH suKaM kIrtirapIha mA BUdanarTa evAstu taTApi DIrAH .
     nijapratijYAmanuruDyamAnA mahodyamAH karma samAraBante .. [Seite1.111] 
 ; ---------------------------------------------
 ; 598 : page 1.111
@@ -2526,13 +2526,13 @@
 ; ---------------------------------------------
 ; 599 : page 1.111
     arTAH pAdarajopamA girinadIvegopamaM yOvanaM
-      mAnuzyaM jalavindulolacapalaM PenopamaM PenopamaM jIvitam .
+      mAnuzyaM jalabindulolacapalaM PenopamaM jIvitam .
     DarmaM yo na karoti niScalamatiH svargArgalodGAwanaM
       paScAttApahato jarApariRataH SokAgninA dahyate ..
 ; ---------------------------------------------
 ; 600 : page 1.111
     arTAgamo nityamarogitA ca priyaSca BAryA priyavAdinI ca .
-    vaSyaSca putro 'rTakarI ca vidyA zaqjIvalokasya suKAni rAjan ..
+    vaSyaSca putro'rTakarI ca vidyA zaqjIvalokasya suKAni rAjan ..
 ; ---------------------------------------------
 ; 601 : page 1.111
     arTA gfhe nivartante SmaSAne cEva bAnDavAH .
@@ -2558,24 +2558,24 @@
 ; ---------------------------------------------
 ; 606 : page 1.112
     arTAnAmISize tvaM vayamapi ca girAmISmahe yAvaditTaM
-      SUrastvaM vAdidarpajvaraSamanaviDAvakzayaM pAWavaM naH .
+      SUrastvaM vAdidarpajvaraSamanaviDAvakzayaM pAwavaM naH .
     sevante tvAM DanAnDA matimalahataye mAmapi SrotukAmA
-      mayyapyAsTA na te cettvayi mama sutarAmeza rAjangato 'smi .. [Seite1.113] 
+      mayyapyAsTA na te cettvayi mama sutarAmeza rAjangato'smi .. [Seite1.113] 
 ; ---------------------------------------------
 ; 607 : page 1.113
     arTAnAmISvaro yaH syAdindriyARAmanISvaraH .
     indriyARAmanESvaryAdESvaryAdDraSyate hi saH ..
 ; ---------------------------------------------
 ; 608 : page 1.113
-    arTArTI jIvaloko 'yaM SmaSAnamapi sevate .
+    arTArTI jIvaloko'yaM SmaSAnamapi sevate .
     janitAramapi tyaktvA niHsvaM gacCati dUrataH ..
 ; ---------------------------------------------
 ; 609 : page 1.113
-    arTArTI jIvaloko 'yaM jvalantamupasarpati .
+    arTArTI jIvaloko'yaM jvalantamupasarpati .
     kzIRakzIrAM nirAjIvyAM vatsastyajati mAtaram ..
 ; ---------------------------------------------
 ; 610 : page 1.113
-    arTArTI yAni kazwAni mUQo 'yaM sahate janaH .
+    arTArTI yAni kazwAni mUQo'yaM sahate janaH .
     SatAMSenApi mokzArTI tAni cenmokzamApnuyAt ..
 ; ---------------------------------------------
 ; 611 : page 1.114
@@ -2584,7 +2584,7 @@
 ; ---------------------------------------------
 ; 612 : page 1.114
     arTinAmupapannAnAM pUrvaM cApyupakAriRAm .
-    ASAM saMSrutya yo hanti sa loke purazADamaH ..
+    ASAM saMSrutya yo hanti sa loke puruzADamaH ..
 ; ---------------------------------------------
 ; 613 : page 1.114
     arTinAM mitravargasya vidvizAM ca parANmuKaH .
@@ -2595,9 +2595,9 @@
     nazwaDanaSca saSokaH suKamAste niHspfhaH puruzaH ..
 ; ---------------------------------------------
 ; 615 : page 1.114
-+   <s>arTI dAtA guRagrAhI</s> s. Spruch <s>kzamI dAtA guRagrahI</s>.
++   <s>arTI dAtA guRagrAhI</s> s. Spruch <s>kzamI dAtA guRagrAhI</s>.
     arTI lAGavamucCrito nipatanaM kAmAturo lAYCanaM
-      lubDo 'kIrtimasaMgaraH pariBavaM duzwo 'nyadoze ratim .
+      lubDo'kIrtimasaMgaraH pariBavaM duzwo'nyadoze ratim .
     niHsvo vaYcanamunmanA vikalatAM SokAkulaH saMSayaM
       durvAgapriyatAM durodaravaSaH prApnoti kazwaM muhuH ..
 ; ---------------------------------------------
@@ -2614,15 +2614,15 @@
 ; ---------------------------------------------
 ; 618 : page 1.115
 +   <s>arTeneha vihInasya</s> s. den vorangehenden Spruch.
-+   <s>arTeByo 'Ta pravfdDeByaH</s> s. Spruch 618.
-+   <s>arTeByo' pi hi vfdDeByaH</s> s. den folgenden Spruch.
-    arTeByo hi vifvadDeByaH saMBfteByastatastataH .
++   <s>arTeByo'Ta pravfdDeByaH</s> s. Spruch 618.
++   <s>arTeByo'pi hi vfdDeByaH</s> s. den folgenden Spruch.
+    arTeByo hi vivfdDeByaH saMBfteByastatastataH .
     kriyAH sarvAH pravartante parvateBya ivApagAH ..
 ; ---------------------------------------------
 ; 619 : page 1.115
 +   <s>arTe sidDiM parAmicCan</s> s. Spruch 592.
     arTErarTA nibaDyante gajEriva mahAgajAH .
-    nahyanarTavatA SakyaM vARijyaM kartamIhayA .. [Seite1.116] 
+    nahyanarTavatA SakyaM vARijyaM kartumIhayA .. [Seite1.116] 
 ; ---------------------------------------------
 ; 620 : page 1.116
     arTErarTA nibaDyante gajErvanagajA iva .
@@ -2633,14 +2633,14 @@
     na tapaH saMcitaM kiMcidgataM ca sakalaM vayaH ..
 ; ---------------------------------------------
 ; 622 : page 1.116
-    arDaM nItvA niSAyAH saraBasasuratAyAsaKinnaSlaSANgaH
+    arDaM nItvA niSAyAH saraBasasuratAyAsaKinnaSlaTANgaH
       prodBUtAsahyatfzRo maDumadanirato harmyapfzWe vivikte .
-    saMBogaktAntakAntASiTilaBujalatAvarjitaM karkarIto
+    saMBogaklAntakAntASiTilaBujalatAvarjitaM karkarIto
       jyotsnABinnAcCaDAraM na pibati salilaM SAradaM mandaBAgyaH ..
 ; ---------------------------------------------
 ; 623 : page 1.116
     arDaM BAryA manuzyasya BAryA SrezWatamaH saKA .
-    BAryA mUlaM trivargasya BAryA mUlaM tarizyatiH ..
+    BAryA mUlaM trivargasya BAryA mUlaM tarizyataH ..
 ; ---------------------------------------------
 ; 624 : page 1.117
     arDasidDezu kAryezu AtmaguhyaM prakASayet .
@@ -2666,7 +2666,7 @@
 ; ---------------------------------------------
 ; 629 : page 1.117
     alaMkriyante SiKinaH kekayA madaraktayA .
-    vAcA vipaScito 'tyarTaM mADuryaguRayuktayA .. [Seite1.118] 
+    vAcA vipaScito'tyarTaM mADuryaguRayuktayA .. [Seite1.118] 
 ; ---------------------------------------------
 ; 630 : page 1.118
     alabDaM cEva lipseta labDaM rakzetprayatnataH .
