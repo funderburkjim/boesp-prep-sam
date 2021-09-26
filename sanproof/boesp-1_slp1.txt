@@ -2674,7 +2674,7 @@
 ; ---------------------------------------------
 ; 631 : page 1.118
     alabDamicCeddaRqena labDaM rakzedavekzayA .
-    rakzitaM varDayedvfdDyA vfdDaM danina nikzipet ..
+    rakzitaM varDayedvfdDyA vfdDaM dAnena nikzipet ..
 ; ---------------------------------------------
 ; 632 : page 1.118
     alabDamIhedDarmeRa labDaM yatnena pAlayet .
@@ -2682,7 +2682,7 @@
 ; ---------------------------------------------
 ; 633 : page 1.118
     alabDe rAgiRo lokA aho labDe virAgiRaH .
-    hemante tAmamIhante hanta grIzme himaM punaH ..
+    hemante tApamIhante hanta grIzme himaM punaH ..
 ; ---------------------------------------------
 ; 634 : page 1.118
     alabDvApi DanaM rAjYaH saMSritA yAnti saMpadam .
@@ -2712,10 +2712,10 @@
 ; ---------------------------------------------
 ; 640 : page 1.119
     alasavalitEH premArdrArdrErmuhurmukulIkftEH kzaRamaBimuKErlajjAlolErnimezaparANmuKEH .
-    hfdayanihitaM BAvAkUtaM vamadBirivekzaREH kaTaya sukftI ko 'yaM mugDe tvayAdya vilokyate ..
+    hfdayanihitaM BAvAkUtaM vamadBirivekzaREH kaTaya sukftI ko'yaM mugDe tvayAdya vilokyate ..
 ; ---------------------------------------------
 ; 641 : page 1.120
-    alasasya kuto vidyA avoDasya kuto 'Bayam .
+    alasasya kuto vidyA aboDasya kuto'Bayam .
     aDanasya kuto mitramamitrasya kutaH suKam ..
 ; ---------------------------------------------
 ; 642 : page 1.120
@@ -2732,7 +2732,7 @@
 ; ---------------------------------------------
 ; 645 : page 1.120
     alirayaM nalinIdalamaDyagaH kamalinImakarandamadAlasaH .
-    viDivaSAtparadeSamupAgataH kuwa{?} japuzparasaM bahu manyate ..
+    viDivaSAtparadeSamupAgataH kuwajapuzparasaM bahu manyate ..
 ; ---------------------------------------------
 ; 646 : page 1.120
     aluptasattvakoSAnAM mahattvaM mahatAM hi kim .
@@ -2749,7 +2749,7 @@
 ; ---------------------------------------------
 ; 649 : page 1.121
     alpIyasEva payasA yatkumBaH pUryate prasidDaM tat .
-    brAhmaM tejaH paSyata kumBodBavo 'pi papO vArDim ..
+    brAhmaM tejaH paSyata kumBodBavo'pi papO vArDim ..
 ; ---------------------------------------------
 ; 650 : page 1.121
     alpecCurDftimAnprAjYaSCAyevAnugataH sadA .
@@ -2761,7 +2761,7 @@
     aDastAtKanane mUQa girayo na patanti kim ..
 ; ---------------------------------------------
 ; 652 : page 1.121
-    alpo 'pi hyariratyarTaM varDamAnaH parAkramEH .
+    alpo'pi hyariratyarTaM varDamAnaH parAkramEH .
     valmIko mUlaja iva grasate vfkzamantikAt ..
 ; ---------------------------------------------
 ; 653 : page 1.122
@@ -2787,7 +2787,7 @@
 ; ---------------------------------------------
 ; 658 : page 1.123
     avajYAnAdrAjYo Bavati matihInaH parijana-
-      statastatprADanyAdBavati na samIpe buDajanaH .
+      statastatprADAnyAdBavati na samIpe buDajanaH .
     buDEstyakte rAjye Bavati nahi nItirguRavatI
       vipannAyAM nItO sakalamavaSaM sIdati jagat ..
 ; ---------------------------------------------
@@ -2822,7 +2822,7 @@
 ; ---------------------------------------------
 ; 666 : page 1.124
     avalepamanaNgasya varDayanti valAhakAH .
-    karSayanti tu Garmasya mArutodDUtaSIkarAH ..
+    karSayanti tu Darmasya mArutodDUtaSIkarAH ..
 ; ---------------------------------------------
 ; 667 : page 1.124
     avaSendriyacittAnAM hastisnAnamiva kriyA .
@@ -2849,7 +2849,7 @@
     cAzaH prayARasamaye Karaninado maNgalo Bavati ..
 ; ---------------------------------------------
 ; 673 : page 1.125
-    avasarapaWitA vARI guRagaRarahitApi SoBate puMzAm .
+    avasarapaWitA vARI guRagaRarahitApi SoBate puMsAm .
     ratisamaye ramaRInAM BUzaRahAnistu BUzaRaM Bavati ..
 ; ---------------------------------------------
 ; 674 : page 1.126
@@ -2870,7 +2870,7 @@
 ; ---------------------------------------------
 ; 678 : page 1.126
     avijitya ya AtmAnamamAtyAnvijigIzate .
-    amitrAnvAjitAmAtyaH so 'vaSaH parihIyate ..
+    amitrAnvAjitAmAtyaH so'vaSaH parihIyate ..
 ; ---------------------------------------------
 ; 679 : page 1.126
     avijYAya PalaM yo hi karma tvevAnuDAvati .
@@ -2894,7 +2894,7 @@
 ; ---------------------------------------------
 ; 684 : page 1.127
     avidyaH puruzaH SocyaH SocyaM mETunamaprajam .
-    nirAhArAH prajAH SocyaM rAzwramarAjakam ..
+    nirAhArAH prajAH SocyAH SocyaM rAzwramarAjakam ..
 ; ---------------------------------------------
 ; 685 : page 1.127
 +   <s>avidyajIvanaM SUnyam</s> s. den folgenden Spruch. [Seite1.128]
@@ -2903,7 +2903,7 @@
 ; ---------------------------------------------
 ; 686 : page 1.127
 +   <s>avidyAjIvanaM SUnyam</s> s. den vorangehenden Spruch.
-    avidvAMScEva vidvAMSa brAhmaRo dEvataM mahat .
+    avidvAMScEva vidvAMSca brAhmaRo dEvataM mahat .
     praRItaScApraRItaSca yaTAgnirdEvataM mahat ..
 ; ---------------------------------------------
 ; 687 : page 1.128
@@ -2932,11 +2932,11 @@
 ; ---------------------------------------------
 ; 693 : page 1.129
     avivekini BUpAle naSyanti guRino guRAH .
-    pravAsarisike kAnte yaTA saDvyAH stanonnatiH ..
+    pravAsarasike kAnte yaTA saDvyAH stanonnatiH ..
 ; ---------------------------------------------
 ; 694 : page 1.129
     aviSrAmaM vahedBAraM SItozRaM ca na vindati .
-    sasaMtozastaTA nityaM trIRi SiKeta gardaBAt ..
+    sasaMtozastaTA nityaM trIRi Sikzeta gardaBAt ..
 ; ---------------------------------------------
 ; 695 : page 1.129
     aviSvAsaM sadAtizWetsaMDinA vigraheRa ca .
