@@ -4407,7 +4407,7 @@
 ; 1041 : page 1.196
 +   <s>AvAso niSi SaSvadeva</s> s. Spruch 1039.
     AvizkftAnparaguRAnkalayanti tUzRIM duScetaso bata vidUzayituM na rAgAt .
-    AkarRayanti kokilakUjitAni saMDAtumeva kila saptanalIM kirAtAH ..
+    AkarRayanti kila kokilakUjitAni saMDAtumeva kila saptanalIM kirAtAH ..
 ; ---------------------------------------------
 ; 1042 : page 1.196
     Avizwa iva duHKena hfdgatena garIyasA .
@@ -4417,20 +4417,20 @@
     ASaNkya praRatiM pawAntapihitO pAdO karotyAdarA-
       dvyAjenAgatamAvfRoti hasitaM na spazwamudvIkzate .
     mayyAlApavati prakopapiSunaM saKyA sahABAzate
-      tasyAstizWatu nirBarapraRayitA mAno 'pi ramyodayaH ..
+      tasyAstizWatu nirBarapraRayitA mAno'pi ramyodayaH ..
 ; ---------------------------------------------
 ; 1044 : page 1.196
     ASAH kAYcanapuzpakuqmalakulacCannA na kAH kzmAtale
       sOjanyAmftavarziBistilakitaM sevyErna kiM maRqalam .
     panTAnaH suciropacArarucirErvyAptA na ke saMstutE-
-      stezamatra na santi nihnutaguRAH kAlena ye mohitAH ..
+      stezAmatra na santi nihnutaguRAH kAlena ye mohitAH ..
 ; ---------------------------------------------
 ; 1045 : page 1.197
     ASAM kAlavatIM dadyAtkAlaM viGnena yojayet .
     viGnaM nimittato brayAnnimittaM cApi hetutaH ..
 ; ---------------------------------------------
 ; 1046 : page 1.197
-    ASA DftiM hanti samfdDimantakaH kroDaH SriyaM hanti yaSAH kadaryatA .
+    ASA DftiM hanti samfdDimantakaH kroDaH SriyaM hanti yaSaH kadaryatA .
     apAlanaM hanti paSUMSca rAjannekaH krudDo brAhmaRo hanti rAzwram ..
 ; ---------------------------------------------
 ; 1047 : page 1.197
@@ -4473,7 +4473,7 @@
     putrasyotpAdane cEva na santi pratihastakAH ..
 ; ---------------------------------------------
 ; 1056 : page 1.199
-    ASritASvEva lokasya vivfdDiM yAnti vidvizaH .
+    ASritAScEva lokasya vivfdDiM yAnti vidvizaH .
     vivfdDASca vinASAya tasmAnnodvejayeprajAH ..
 ; ---------------------------------------------
 ; 1057 : page 1.199
@@ -4488,56 +4488,56 @@
 ; ---------------------------------------------
 ; 1059 : page 1.199
     ASvAsya parvatakulaM tapanozmataptaM durdAvavahniviDurARi ca kAnanAni .
-    nAnAnadInadaSatAni ca pUrayitvA rikto 'si yajjalada sEva tavottamA SrIH ..  [Seite1.200] 
+    nAnAnadInadaSatAni ca pUrayitvA rikto'si yajjalada sEva tavottamA SrIH ..  [Seite1.200] 
 ; ---------------------------------------------
 ; 1060 : page 1.200
     AsaMsAraM triBuvanamidaM cinvatAM tAta tAdfNnEvAsmAkaM nayanapadavIM SrotramArgaM gato vA .
-    yo 'yaM Date vizayakariRIgAQarUQABimAnakzIvasvAntaHkaraRakariRaM saMyamAlAnalInam ..
+    yo'yaM Datte vizayakariRIgAQarUQABimAnakzIvasvAntaHkaraRakariRaM saMyamAlAnalInam ..
 ; ---------------------------------------------
 ; 1061 : page 1.200
-    AsanaSayyABiradBirmUlaPalena vA .
-    nAsya kaScidvasedBehe Saktito 'tiTiH ..
+    AsanAcCayanAdyAnAtsaMgateScApi BojanAt .
+    kfte saMcarate pApaM tElabindurivAmBasi ..
 ; ---------------------------------------------
 ; 1062 : page 1.200
     AsanASanaSayyABiradBirmUlaPalena vA .
-    nAsya kAScidvaseNgehe Saktito 'narcito 'tiTiH ..
+    nAsya kaScidvasedgehe Saktito'narcito'tiTiH ..
 ; ---------------------------------------------
 ; 1063 : page 1.200
-    Asane lAlayedbAlAM taruRoM Sayane taTA .
+    Asane lAlayedbAlAM taruRIM Sayane taTA .
     utsaNge patirUQAM ca lAlanaM triviDaM viduH ..
 ; ---------------------------------------------
 ; 1064 : page 1.200
     Asane Sayane yAne pAnaBojanavastuzu .
-    dfzwAdfzwe pramattezu praharantyarayo 'rizu .. [Seite1.201] 
+    dfzwAdfzwe pramattezu praharantyarayo'rizu .. [Seite1.201] 
 ; ---------------------------------------------
 ; 1065 : page 1.201
     AsannataratAmeti mftyurjantordine dine .
     AGAtaM nIyamAnasya vaDyasyeva pade pade ..
 ; ---------------------------------------------
 ; 1066 : page 1.201
-    Asannameva nfpatirBAjate manuzya vidyAvihInamakulInamasaMgataM vA .
+    Asannameva nfpatirBajate manuzyaM vidyAvihInamakulInamasaMgataM vA .
     prAyeRa BUmipatayaH pramadA latASca latASca yatpArSvato Bavati tatparivezwayanti ..
 ; ---------------------------------------------
 ; 1067 : page 1.201
     AsArezu na harmyataH priyatamEryAtuM yadA Sakyate
       SItotkampanimittamAyatadfSA gAQaM samAliNgyate .
-    jAMtAH SItalasIkarASca maruto ratyantaKedacCido
-      GanyAnAM bata durdinaM sudinatAM yAti priyAsaMgame ..
+    jAtAH SItalasIkarASca maruto ratyantaKedacCido
+      DanyAnAM bata durdinaM sudinatAM yAti priyAsaMgame ..
 ; ---------------------------------------------
 ; 1068 : page 1.201
-    A stanyapAnAjjananI paSUnAmA dAralABAcca narAGamAnAm .
+    A stanyapAnAjjananI paSUnAmA dAralABAcca narADamAnAm .
     AgehakarmAvaDi maDyamAnAmA jIvitAttIrTamivottamAnAm .. [Seite1.202] 
 ; ---------------------------------------------
 ; 1069 : page 1.202
-    AstAM tAvatkimanyena dOrAtmyaneha yozitAm .
-    viDftaM svodareRapi Gnanti putraM svakaM ruzA ..
+    AstAM tAvatkimanyena dOrAtmyeneha yozitAm .
+    viDftaM svodareRApi Gnanti putraM svakaM ruzA ..
 ; ---------------------------------------------
 ; 1070 : page 1.202
-    AstAmakaRwakamidaM vasuDAGipatyaM trElokyarAjyamapi nEva tfRAya manye .
+    AstAmakaRwakamidaM vasuDADipatyaM trElokyarAjyamapi nEva tfRAya manye .
     niHSaNkasuptahariRIkulasuMkulAsu cetaH paraM valati SElavanasTalIzu ..
 ; ---------------------------------------------
 ; 1071 : page 1.202
-    AstAmanyatsujanAH paropakArakarERakadurla litAH .
+    AstAmanyatsujanAH paropakArakarERakadurlalitAH .
     saMtApitapiSunezu svajanezvapi hanta Kidyante ..
 ; ---------------------------------------------
 ; 1072 : page 1.202
@@ -4546,13 +4546,13 @@
 ; ---------------------------------------------
 ; 1073 : page 1.203
     AsvAditadviradaSoRitaSoRaSoBAM
-      saMDyAruRAmiva kalAM SaSalAYCanaSsya .
-    jfmBAvidAritamuKasya muKAtsPurantiM
+      saMDyAruRAmiva kalAM SaSalAYCanasya .
+    jfmBAvidAritamuKasya muKAtsPurantIM
       ko hartumicCati hareH pariBUya daMzwrAm ..
 ; ---------------------------------------------
 ; 1074 : page 1.203
-    AsvAdya svayameva vacmi mahatIrmacCide vedanA
-      mA BUtkasyacidapyayaM pariBavo yAcYeti saMsAriRaH .
+    AsvAdya svayameva vacmi mahatIrmacCido vedanA
+      mA BUtkasyacidapyayaM pariBavo yAYceti saMsAriRaH .
     paSya BrAtariyaM hi gOravajarADikkArakelisTalI
       mAnamlAnamasI guRavyatikaraprAgalByagarvacyutiH ..
 ; ---------------------------------------------
