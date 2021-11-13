@@ -8098,11 +8098,11 @@
 ; 1902 : page 1.367
     kecidBojanaBaNganirBaraDiyaH kecicca nidrAlasAH
       kecinmAlyavilopanEkanipuRAH kecicca gAnotsukAH .
-    kciddyU{?} takaTAmfgavyamadirAnftyAdibadDAdarAH
-      kecidvAjigajokzayAnarasikA DanyAstu Darme rataH ..
+    keciddyUtakaTAmfgavyamadirAnftyAdibadDAdarAH
+      kecidvAjigajokzayAnarasikA DanyAstu Darme ratAH ..
 ; ---------------------------------------------
 ; 1903 : page 1.368
-    kecidvastuni na vAci kecidDAci na vastuni .
+    kecidvastuni na vAci kecidvAci na vastuni .
     vAci vastuni cApyanye nAnye vAci ca vastuni ..
 ; ---------------------------------------------
 ; 1904 : page 1.368
@@ -8128,26 +8128,26 @@
 ; 1909 : page 1.369
     ke yUyaM no vayamapi ca vaH ke BavAmo BavAbDO
       karmormIRAM vizamavalanEH PenavatpuYjitAH smaH .
-    tatkzepIyaH kzayiRi necaye cittamADAya putrAH
+    tatkzepIyaH kzayiRi nicaye cittamADAya putrAH
       sarvAramBErlagata jagatAmantarAtmanyanante ..
 ; ---------------------------------------------
 ; 1910 : page 1.369
     keyUrA na viBUzayanti puruzaM hArA na candrojjvalA
       na snAnaM na vilepanaM na kusumenAlaMkftA mUrDajAH .
     vARyekA samalaMkaroti puruzaM yA saMskftA DAryate
-      kzIyante 'KilaBUzaRAni satataM vAgBUzaRaM BUzaRam ..
+      kzIyante'KilaBUzaRAni satataM vAgBUzaRaM BUzaRam ..
 ; ---------------------------------------------
 ; 1911 : page 1.369
-    keliH pradahati majjAM SfNgaro 'sTIni cAwavaH kawavaH .
+    keliH pradahati majjAM SfNgAro'sTIni cAwavaH kawavaH .
     banDakyAH paritozo na syAdanaBIzwadaMpatyoH ..
 ; ---------------------------------------------
 ; 1912 : page 1.370
-    kevalaM vyasanastyoktaM BezajaM nayapaRqitEH .
+    kevalaM vyasanasyoktaM BezajaM nayapaRqitEH .
     tasyocCedasamAramBo vizAdaparivarjanam ..
 ; ---------------------------------------------
 ; 1913 : page 1.370
-    kevalaM vyasanasyoktaM BezajaM nayapaRqitEH .
-    tasyocCedasamAramBo vizAdaparivarjanam ..
+    ke vA na santi Buvi tAmarasAvataMsA haMsAvalIklayino jalasaMniveSAH ..
+	kiM cAtakaH Palamapekzya savajrapAtAM pOraMdarImupagato navavAriDArAm ..
 ; ---------------------------------------------
 ; 1914 : page 1.370
     ke vA Buvi cikitsante rogArtAnmfgapakziRaH .
@@ -8155,27 +8155,27 @@
 ; ---------------------------------------------
 ; 1915 : page 1.370
     keSAnAkulayandaSo mukulayanvAso balAdAkzipa-
-      nnAtanvalakodgamaM prakawayannAliNgya kampaM SanEH .
+      nnAtanvanpulakodgamaM prakawayannAliNgya kampaM SanEH .
     vAraM vAramudAraSItkftakfto dantacCadAnpIqaya-
       nprAyaH SESira eza saMprati marutkAntAsu kAntAyate ..
 ; ---------------------------------------------
 ; 1916 : page 1.371
-    keSAH saMyaminaH Srutarepi paraM pAraM gate lecane
-      antarvakktramapi svaBAvaSuciBiH kIrRaM dvijAnAM gaREH .
+    keSAH saMyaminaH Srutarepi paraM pAraM gate locane
+      antarvakttramapi svaBAvaSuciBiH kIrRaM dvijAnAM gaREH .
     muktAnAM satatADivAsaruciraM vakzojakumBadvaya-
-      miTaM tanvi vapuH praSAntamapi te kzoBaM karotyeva naH ..
+      mitTaM tanvi vapuH praSAntamapi te kzoBaM karotyeva naH ..
 ; ---------------------------------------------
 ; 1917 : page 1.371
     kezAMcitsaMvalaM vidyA kezAMcitsaMvalaM Danam .
-    vidyAmAne hi tAruRye yozitAM BagasaMvalam ..
+    vidyamAne hi tAruRye yozitAM BagasaMvalam ..
 ; ---------------------------------------------
 ; 1918 : page 1.371
-    kEvartakarkaSakaragrahaRacyuto 'pi jAle punarnipatitaH aParo varAkaH .
-    jAlAtpunarvigalito gilito bakena vAme viDO vata kuto vyasanAnnivfttiH ..
+    kEvartakarkaSakaragrahaRacyuto'pi jAle punarnipatitaH SaParo varAkaH .
+    jAlAtpunarvigalito gilito bakena vAme viDO bata kuto vyasanAnnivfttiH ..
 ; ---------------------------------------------
 ; 1919 : page 1.371
-    kokilAlApasuBagAH suganDivanavAyavaH .
-    yAnti sArDaM janAnandErvfdDiM suraBivAsarAH ..
+    kokilAnAM svaro rUpaM nArIrUpaM pativratam .
+	vidyA rUpaM kurUpARAM kzamA rUpaM tapasvinAm ..
 ; ---------------------------------------------
 ; 1920 : page 1.371
     kokilAlApasuBagAH suganDivanavAyavaH .
@@ -8186,16 +8186,16 @@
     yatra BekIpatirvaktA tatrAsmAkaM kuto vacaH ..
 ; ---------------------------------------------
 ; 1922 : page 1.372
-    kokilo 'haM BavAnkAkaH samAnaH kAlimAvayo .
+    kokilo'haM BavAnkAkaH samAnaH kAlimAvayoH .
     antaraM kaTayizyanti kAkalIkovidAH punaH ..
 ; ---------------------------------------------
 ; 1923 : page 1.372
-    ko gatvA yamasadanaM svayamanyakamAdiSatyajAtaBayaH .
+    ko gatvA yamasadanaM svayamantakamAdiSatyajAtaBayaH .
     prARAnapahara matto yadi SaktiH kAcidasti tava ..
 ; ---------------------------------------------
 ; 1924 : page 1.372
     kowarAgniryaTASezaM samUlaM pAdapaM dahet .
-    DarmArTO tu taTAlpo 'pi rAgadozo vinASayet ..
+    DarmArTO tu taTAlpo'pi rAgadozo vinASayet ..
 ; ---------------------------------------------
 ; 1925 : page 1.372
     kowarAntarBavo vahnistarumekaM dahizyati .
@@ -8203,11 +8203,11 @@
 ; ---------------------------------------------
 ; 1926 : page 1.372
 +   <s>kowarABiBavo vahniH</s> s. den vorangehenden Spruch.
-    ko 'tiBAraH samarTAnAM kiM dUraM vyavasAyinAm .
-    ko vidSaH savidyAnAM kaH paraH priyavAdinAm ..
+    ko'tiBAraH samarTAnAM kiM dUraM vyavasAyinAm .
+    ko videSaH savidyAnAM kaH paraH priyavAdinAm ..
 ; ---------------------------------------------
 ; 1927 : page 1.373
-    ko 'tretyahamiti brUyAtsamyagAjYApayeti ca .
+    ko'tretyahamiti brUyAtsamyagAjYApayeti ca .
     AjYAM cAvitaTIkuryAdyaTASaktyavilambitam ..
 ; ---------------------------------------------
 ; 1928 : page 1.373
@@ -8215,7 +8215,7 @@
     varamekaH kulAlambI yatra viSrUyate pitA ..
 ; ---------------------------------------------
 ; 1929 : page 1.373
-    ko Darmo BUtadayA kiM sOKyAmarogitA jagati jantoH .
+    ko Darmo BUtadayA kiM sOKyamarogitA jagati jantoH .
     kaH snehaH sadBAvah kiM pARqityaM paricCedaH ..
 ; ---------------------------------------------
 ; 1930 : page 1.373
@@ -8225,15 +8225,15 @@
 ; ---------------------------------------------
 ; 1931 : page 1.374
     ko narakaH paravaSatA kiM sOKyaM sarvasaNgaviratiryA .
-    kiM sADyaM BUtahitaM kiM preyaH praRinAmasavaH ..
+    kiM sADyaM BUtahitaM kiM preyaH prARinAmasavaH ..
 ; ---------------------------------------------
 ; 1932 : page 1.374
-    ko 'nDo yo 'kAryarataH ko baDiro yaH SfRoti na hitAni .
+    ko'nDo yo'kAryarataH ko baDiro yaH SfRoti na hitAni .
     ko mUko yaH kAle priyARi vaktuM na jAnAti ..
 ; ---------------------------------------------
 ; 1933 : page 1.374
-    ko 'nyaH kAlamatikrAntaM netuM pratyakzatAM kzamaH .
-    kaviprajApatIstyakktvA ramyanirmARaSAlinaH ..
+    ko'nyaH kAlamatikrAntaM netuM pratyakzatAM kzamaH .
+    kaviprajApatIstyakttvA ramyanirmARaSAlinaH ..
 ; ---------------------------------------------
 ; 1934 : page 1.374
     kopaprasAdavastUni vicinvantaH samIpagAH .
@@ -8241,58 +8241,58 @@
 ; ---------------------------------------------
 ; 1935 : page 1.374
     kopaprasAdErdayitAjanasya hayAdivfttAntagavezaRena .
-    BftyAnavfttyA mfgayAkaTaBI rAjYAM SiSUnAmiva yAti kAlaH ..
+    BftyAnuvfttyA mfgayAkaTABI rAjYAM SiSUnAmiva yAti kAlaH ..
 ; ---------------------------------------------
 ; 1936 : page 1.374
     kopastapo nASayati krudDo BraSyatyaTAyuzaH .
     krudDasya galate jYAnaM krudDaScArTAcca hIyate ..
 ; ---------------------------------------------
 ; 1937 : page 1.375
-    kopastvayA hfdi kfto yadi paNkajAkzi so 'stu priyastava kimatra viDeyamanyat .
-    ASlezarpaya madarpitapUrvamuccEruccEH samarpaya madarpitacumbanaM ca ..
+    kopastvayA hfdi kfto yadi paNkajAkzi so'stu priyastava kimatra viDeyamanyat .
+    ASlezamarpaya madarpitapUrvamuccEruccEH samarpaya madarpitacumbanaM ca ..
 ; ---------------------------------------------
 ; 1938 : page 1.375
-    kopAtkomalalolabAhulatikApASena badDvAdfQaM
-      nItvA kliniketanaM dayitayA sAyaM saKInAM puraH .
-    BUyo 'pyevamiti sKalanmfdugirA saMsUcya duScozwitaM
-      Danyo hanyata eza nihnutiparaH preyAnruvudatyA hasan ..
+    kopAtkomalalolabAhulatikApASena badDvA dfQaM
+      nItvA keliniketanaM dayitayA sAyaM saKInAM puraH .
+    BUyo'pyevamiti sKalanmfdugirA saMsUcya duScezwitaM
+      Danyo hanyata eza nihnutiparaH preyAnrudatyA hasan ..
 ; ---------------------------------------------
 ; 1939 : page 1.375
-    koopo yatra BrukuwiracanA nigraho yatra mOnaM
-      yatrAnyo 'nyasmitamanunayo dfzwipAtaH prasAdaH .
+    kopo yatra BrukuwiracanA nigraho yatra mOnaM
+      yatrAnyo'nyasmitamanunayo dfzwipAtaH prasAdaH .
     tasya premRastadidamaDunA vESasaM paSya jAtaM
-      tvaM pAdante luWasi na ca me manyumokzaH KalAyAH ..
+      tvaM pAdAnte luWasi na ca me manyumokzaH KalAyAH ..
 ; ---------------------------------------------
 ; 1940 : page 1.375
-    ko 'rTaH putreRa jAtena yo na vidvAnna DArmikaH .
+    ko'rTaH putreRa jAtena yo na vidvAnna DArmikaH .
     kARena cakzuzA kiM vA cakzuHpIqEva kevalam ..
 ; ---------------------------------------------
 ; 1941 : page 1.376
-    ko 'rTaH putreRa jatena yo na vidvAnna DArmikaH .
-    tayA gavA kiM kriyate yA na doDrI na garBiRI ..
+    ko'rTaH putreRa jAtena yo na vidvAnna DArmikaH .
+    tayA gavA kiM kriyate yA na dogDrI na garBiRI ..
 ; ---------------------------------------------
 ; 1942 : page 1.376
-    ko 'rTAnprApya na garvito vizayiRaH kasyApado 'staM gatAH
+    ko'rTAnprApya na garvito vizayiRaH kasyApado'staM gatAH
       strIBiH kasya na KaRqitaM Buvi manaH ko nAma rAjYAM priyaH .
-    kaH kAlasya na gocarAntaragataH ko 'rTI gato gOravaM
+    kaH kAlasya na gocarAntaragataH ko'rTI gato gOravaM
       ko vA durjanavAgurAsu patitaH kzemeRa yAtaH pumAn ..
 ; ---------------------------------------------
 ; 1943 : page 1.376
     ko lABo guRisaMgamaH kimasuKaM prAjYetarApASrayaH
       kA hAniH samaye cyutirnipuRatA kA Darmatattve ratiH .
-    kaH SUro vijitondriyaH priyatamA kAnuvratA kiM DanaM
+    kaH SUro vijitendriyaH priyatamA kAnuvratA kiM DanaM
       vidyA kiM suKamapravAsagamanaM rAjyaM kimAjYAPalam ..
 ; ---------------------------------------------
 ; 1944 : page 1.377
     ko vA gururyo hi hitopadezwA SizyaSca ko yo guruBaktipUrRaH .
-    ko dIrGarogo 'sata eva saNgaH kimOzaDaM sADusamAgamo hi ..
+    ko dIrGarogo'sata eva saNgaH kimOzaDaM sADusamAgamo hi ..
 ; ---------------------------------------------
 ; 1945 : page 1.377
     ko vA jvaraH prARaBftAM hi cintA mUrKastu ko yastu vivekahInaH .
     kAryA priyA kA SivavizRuBaktiH kiM jIvanaM dozavivarjitaM yat ..
 ; ---------------------------------------------
 ; 1946 : page 1.377
-    ko vA daridro 'tiviSAlatfzRaH SrImAMSca ko yasya manaSca tuzwam .
+    ko vA daridro'tiviSAlatfzRaH SrImAMSca ko yasya manaSca tuzwam .
     jItanmftaH kastu nirudyamo yaH kA vA mftirhInajane durASA ..
 ; ---------------------------------------------
 ; 1947 : page 1.377
@@ -8303,16 +8303,16 @@
 ; ---------------------------------------------
 ; 1948 : page 1.377
     koSakzayo na nidrA ca na vilAsezu ca spfhA .
-    vigrahAsakta cintAnAM na ratiH kvApi jAyate .. [Seite1.378] 
+    vigrahAsaktacintAnAM na ratiH kvApi jAyate .. [Seite1.378] 
 ; ---------------------------------------------
 ; 1949 : page 1.378
-    koSadvadvamiyaM daDAti nalinI kAdambacaYcU kzataM
-      Datte cUtalatA navaM kisalayaM yuMskokilAsvAditam .
-    styAkarRya miTaH saKIjanavacaH sA dIrDikAyAstawe
+    koSadvaMdvamiyaM daDAti nalinI kAdambacaYcUkzataM
+      Datte cUtalatA navaM kisalayaM puMskokilAsvAditam .
+    ityAkarRya miTaH saKIjanavacaH sA dIrGikAyAstawe
       cElAntena tirodaDe stanatawaM bimbADaraM pARinA ..
 ; ---------------------------------------------
 ; 1950 : page 1.378
-    koSamUlo hi rajeti pravAdaH sArvalOkikaH .
+    koSamUlo hi rAjeti pravAdaH sArvalOkikaH .
     etatsarvaM jahAtIha koSavyasanavAnnfpaH ..
 ; ---------------------------------------------
 ; 1951 : page 1.378
