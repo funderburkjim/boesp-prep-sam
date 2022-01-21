@@ -1,320 +1,659 @@
 Verse 24: difference at verse line 1
+;sam OK
 Verse 27: difference at verse line 2
+;sam corrected candrabindu
 Verse 30: difference at verse line 2
+;sam corrected candrabindu
 Verse 31: difference at verse line 2
+;sam OK
 Verse 52: difference at verse line 2
+;sam OK
+;I did not see a contextual sense in <same KalA> therefore deleted the space and marked as scan error <sameKalA>
 Verse 54: difference at verse line 1
+;sam corrected space deletion
 Verse 56: difference at verse line 2
+;sam corrected typo
 Verse 64: difference at verse line 1
+;sam corrected
 Verse 66: difference at verse line 1
+;sam corrected space
 Verse 67,68,69: difference at verse line 6
+;sam corrected space
 Verse 70: difference at verse line 2
+;sam corrected <bfhaspatiH>
 Verse 71: difference at verse line 2
+;sam OK
 Verse 78: difference at verse line 1
+;sam OK
 Verse 80: difference at verse line 2
+;sam corrected <BaRqam>
 Verse 82: difference at verse line 1
+;sam OK
 Verse 101: difference at verse line 1
+;sam OK
 Verse 110: difference at verse line 2
+;sam OK
 Verse 111: difference at verse line 1
+;sam corrected <ajYAnAdyadi>
 Verse 118: difference at verse line 1
+;sam corrected <aYjalisTAni>
 Verse 121: difference at verse line 1
+;sam corrected <mahaqyaSca> unsure
 Verse 126: difference at verse line 2
+;sam corrected <tfRAnAm>
 Verse 132: difference at verse line 2
+;sam corrected space
 Verse 138: difference at verse line 2
+;sam corrected <punaryAnti>
 Verse 141: difference at verse line 1
+;sam corrected <atiBIrumatiktlIbaM> unsure
 Verse 143: difference at verse line 1
+;sam OK
 Verse 147: difference at verse line 1
+;sam corrected <atiyatnagfhIto'pi>
 Verse 174,175: difference at verse line 2
+;sam corrected <SrIrBayAnnopasarpati>
 Verse 195: differences at verse lines 1,2
+;sam corrected <adfzwavyApAraM> and <taTAnDaM>
 Verse 208: difference at verse line 1
+;sam corrected <adrohaH>
 Verse 209: difference at verse line 1
+;sam corrected <mUrDnA>
 Verse 226: difference at verse line 1
+;sam corrected <fRaM>
 Verse 230: difference at verse line 2
+;sam OK
 Verse 245: difference at verse line 1
+;sam corrected to <anantaSAstraM>
 Verse 249: difference at verse line 1
+;sam OK
 Verse 252: difference at verse line 2
+;sam corrected added <madyapAnaM>
 Verse 260: difference at verse line 1
+;sam corrected <anavApyaM>
 Verse 274: difference at verse line 2
+;sam corrected <Bftyo'rho> for space
 Verse 295,296,297: difference at verse line 2
+;sam corrected <maDurA>
 Verse 299: difference at verse line 1
+;sam OK
 Verse 337: difference at verse line 1
+;sam corrected
 Verse 341: difference at verse line 2
+;sam corrected <BUpate>
 Verse 344: differences at verse lines 1,4
+;sam corrected to <luWantyagaRitAstAneva>	
+;sam corrected to <prApto'rcyate>
 Verse 356: difference at verse line 2
+;corrected space
 Verse 362: difference at verse line 1
+;corrected to <ftvijaH>
 Verse 373: difference at verse line 2
+;sam OK
 Verse 382: difference at verse line 2
+;sam OK
 Verse 383: difference at verse line 1
+;sam corrected to <vayAMsi>
 Verse 415: difference at verse line 2
+;sam corrected <sPurantImiva>
 Verse 428: difference at verse line 1
+;sam corrected candrabindu
 Verse 429: difference at verse line 2
+;sam corrected to <kaTaMcitsuhfddruhaH>
 Verse 430: difference at verse line 2
+;sam OK
 Verse 441: difference at verse line 1
+;sam corrected <apIqayanbalaM>
 Verse 448: difference at verse line 1
+;sam corrected <apUrvaH ko'pi>
 Verse 458: differences at verse lines 1,2
+;sam corrected <ca rOdre>
+;sam corrected <DEryaM>
 Verse 467: difference at verse line 2
+;sam corrected space
 Verse 493: difference at verse line 2
+;sam OK
 Verse 503: difference at verse line 2
+;sam OK
 Verse 514: difference at verse line 2
+;sam corrected to <yOvanAni>
 Verse 526: difference at verse line 2
+;sam corrected to <yadAQyAnAmagre>
 Verse 528: difference at verse line 2
+;sam corrected to <bAlaBAzitam>
 Verse 529: difference at verse line 1
+;sam corrected to <SiSire>
 Verse 532: difference at verse line 4
+;sam corrected to <yadihAnyatsvAdu>
 Verse 537: difference at verse line 1
+;sam corrected to <muKendO>
 Verse 545: differences at verse lines 1,2,4
+;<amBoDiH>
+;<tfRatklIbatAM> unsure
 Verse 565: difference at verse line 1
+;sam corrected <ayuktaM>
 Verse 576: difference at verse line 2
+;sam corrected <nirftiM>
 Verse 587: difference at verse line 1
+;sam corrected <guRAnbrUyAnna>
 Verse 607: difference at verse line 2
+;sam corrected to <indriyARAmanESvaryAdESvaryAdgraSyate> unsure
 Verse 622: differences at verse lines 2,4
+;sam OK
 Verse 636: difference at verse line 2
+;sam corrected to <manastApaH>
 Verse 637: differences at verse lines 2,4
+;sam OK
 Verse 657: difference at verse line 2
+;sam corrected <suKakalA>
 Verse 666: difference at verse line 2
+;sam OK
 Verse 684: difference at verse line 2
+;sam corrected <Garmasya>
 Verse 693: difference at verse line 2
+;sam corrected <sADvyAH>
 Verse 697: difference at verse line 1
+;sam corrected <kftajYo>
 Verse 705: difference at verse line 2
+;sam corrected space
 Verse 717: difference at verse line 1
+;sam corrected <tulAm>
 Verse 731: difference at verse line 2
+;sam <satyameva>
 Verse 747: difference at verse line 1
+;sam corrected to <saNgadozeRa>
 Verse 752: difference at verse line 2
+;sam corrected <nABimanyante>
 Verse 754: difference at verse line 2
+;sam corrected <kiMpAkavfkzasya>
 Verse 783: difference at verse line 1
+;sam OK
 Verse 803: difference at verse line 2
+;sam OK
 Verse 807: differences at verse lines 1,3,4
+;sam added <miSra> in the word <pratyagrakzaradasramiSrapiSitagrAsagrahaM>
 Verse 814: difference at verse line 1
+;sam corrected <dfpyaH>
 Verse 836: difference at verse line 2
+;sam OK
 Verse 845: difference at verse line 2
+;sam corrected <prARahArakaH>
 Verse 850: difference at verse line 1
+;sam corrected <AkiMcanyaM>
 Verse 858: difference at verse line 1
+;sam OK
 Verse 868: difference at verse line 1
+;sam added <DanyAH>
 Verse 876: difference at verse line 2
+;sam OK
 Verse 880: difference at verse line 2
+;sam corrected Danam
 Verse 941: difference at verse line 1
+;sam corrected to <datto'Ta>
 Verse 944: difference at verse line 1
+;sam corrected to <vinASine>
 Verse 987: difference at verse line 1
+;sam corrected to <pakzO>
 Verse 993: differences at verse lines 1,2
+;sam corrected <GanasamayataqidviBramA>
 Verse 1004: difference at verse line 2
+;sam added <mEtrI>
 Verse 1033: difference at verse line 2
+;sam corrected <yadboDayanti>
 Verse 1045: difference at verse line 2
+;sam corrected to <brUyAnnimittaM>
 Verse 1053: difference at verse line 1
+;sam OK
 Verse 1056: difference at verse line 2
+;sam corrected to <tasmAnnodvejayetprajAH>
 Verse 1062: difference at verse line 2
+;sam OK
 Verse 1066: difference at verse line 2
+;sam OK
 Verse 1068: difference at verse line 1
+;sam OK
 Verse 1072: difference at verse line 1
+;sam corrected <AsrAvayedupacitAnsADu>
 Verse 1074: difference at verse line 2
+;sam corrected <mahatIrmarmacCido>
+;error was in line 1 not line 2
 Verse 1078: difference at verse line 1
+;sam corrected to <prabuDyate>
 Verse 1079: difference at verse line 2
+;sam added <tadetadaparaM>
 Verse 1081: differences at verse lines 2,4
+;sam corrected <AhAro>
+;sam corrected <mfdugatirvAto'pi>
 Verse 1082: difference at verse line 2
+;sam OK
 Verse 1083: difference at verse line 2
+;sam corrected to <kasya>
 Verse 1086: difference at verse line 2
+;sam corrected to <snAnadAnAdikAH>
 Verse 1094: difference at verse line 1
+;sam corrected <evArhati>
 Verse 1096: difference at verse line 2
+;sam corrected to <maraRaM>
 Verse 1105: difference at verse line 2
+;sam corrected to <pratklidyate>
 Verse 1112: difference at verse line 2
+;sam corrected to <budDiM>
 Verse 1114: difference at verse line 1
+;sam deleted <tu sarvezAM>
 Verse 1117: difference at verse line 2
+;sam corrected to <sidDiM>
 Verse 1119: difference at verse line 1
+;sam corrected to <indriyARi> 
 Verse 1126: difference at verse line 1
+;sam corrected to <iyatyetasminvA niravaDicamatkftyatiSayo>
 Verse 1128: difference at verse line 1
+;sam corrected to <kaWoracittatA>
 Verse 1134: difference at verse line 1
+;sam corrected <tyajasi>
 Verse 1137: difference at verse line 1
+;sam OK
 Verse 1154,1155: difference at verse line 2
+;sam corrected <urgraM>
 Verse 1158: difference at verse line 1
+;sam corrected <ucitaH>
 Verse 1164: differences at verse lines 1,2
+;sam corrected to <ucCedyamapi>
+;sam corrected to <niHSezatAM>
 Verse 1167: difference at verse line 1
+;sam corrected to <drazwuM>
 Verse 1169: differences at verse lines 1,2
+;sam corrected to <gaNgAM>
 Verse 1171: difference at verse line 1
+;sam added ~
 Verse 1173: difference at verse line 1
+;sam OK
 Verse 1181: difference at verse line 2
+;sam OK
 Verse 1184: difference at verse line 2
+;sam corrected to <DvanistAdfgyAdfkkAMsye>
 Verse 1189: difference at verse line 2
+;corrected to <tatsvAminastIvraparitkleSEH>
 Verse 1204: difference at verse line 2
+;sam corrected entire 2nd line
 Verse 1207: difference at verse line 1
+;sam corrected <utpatato'ntarikzaM>
 Verse 1213: difference at verse line 2
+;sam corrected <prArTanA>
 Verse 1216: difference at verse line 1
+;sam OK
 Verse 1236: difference at verse line 1
+;sam corrected <udIrito'rTaH>
 Verse 1246: difference at verse line 2
+;sam corrected to <AhAro>
 Verse 1264: difference at verse line 2
+;sam OK
 Verse 1268: difference at verse line 1
+;corrected to <unmattAnAM>
 Verse 1269: difference at verse line 2
+;sam OK
 Verse 1279: difference at verse line 1
+;sam OK
 Verse 1286: difference at verse line 2
+;sam OK
 Verse 1288: difference at verse line 4
+;sam corrected to <strIvadbadDO>
 Verse 1297: difference at verse line 2
+;sam corrected to <vAkkAyacittEH>
 Verse 1304: differences at verse lines 1,2
+;sam corrected to <jayo>
+;sam corrected to <upAyajYo'lpakAyo'pi>
 Verse 1312: difference at verse line 1
+;sam corrected <tkleSAH>
 Verse 1317: difference at verse line 2
+;sam corrected <asaMniDAnAtsatatasTitInAmanyAnyarAgaH>
 Verse 1334: difference at verse line 1
+;sam corrected to <fRAni>
 Verse 1337: difference at verse line 1
+;sam corrected to <devatAScEva>
 Verse 1339: difference at verse line 1
+;sam corrected <ca> and <ca>
 Verse 1341,1342: difference at verse line 1
+;sam corrected to <nopapadyate>
 Verse 1362: difference at verse line 1
+;sam OK
 Verse 1373: difference at verse line 1
+;sam corrected to <BUmipatiH>
 Verse 1376: differences at verse lines 1,2
+;sam corrected scan error <ekavfkzasamArUQA>
 Verse 1377: difference at verse line 2
+;sam OK
 Verse 1378: differences at verse lines 1,4
+;sam corrected to <parANmuKatayA>
+;sam corrected to <sahAsaraBasavyAsaktakaRWagraham>
 Verse 1382: difference at verse line 1
+;sam corrected to <mUQAH>
 Verse 1385: difference at verse line 2
+;sam corrected to <tasyAnekaparitkleSe >
 Verse 1386,1387: difference at verse line 4
+;sam corrected <tasminhate>
 Verse 1392: difference at verse line 2
+;sam corrected to <paYcaBirbahuBI>
 Verse 1396,1397: differences at verse lines 2,4
+;sam corrected to <aprOQo'nupaBujyAnyadine> in line 2
+;no error found in line 4
 Verse 1399: difference at verse line 2
+;sam corrected to <BavizyAmi>
 Verse 1405: difference at verse line 2
+;sam corrected to <SAliSyAmAkayorBedaH>
 Verse 1406: difference at verse line 1
+;sam corrected to <sahodarARAmujjfmBate>
 Verse 1407: difference at verse line 2
+;sam OK
 Verse 1410: difference at verse line 2
+;sam corrected to <dAtfyAcakayorBedaH>
 Verse 1424: difference at verse line 1
+;sam deleted space before avagraha
 Verse 1428: difference at verse line 1
+;sam corrected to <ekonA>
 Verse 1444: difference at verse line 1
+;sam corrected to <yaddUyorekacittatA>
 Verse 1445: difference at verse line 3
+;sam corrected to <dikkAntAkucakumBakuNkumarajanyAsAya>
 Verse 1450: # lines different
+;sam corrected to <etasmAdviramendriyArTagahanAdAyAsadAdASraya>
+;word added <BavaratiM>
+;lines format changed
 Verse 1452: difference at verse line 2
+;sam corrected to <prARErarTErDiyA>
 Verse 1456: differences at verse lines 1,2
+;corrected to <etAScaladvalayasaMhatimeKalotTaJaMkAranUpuraparAjitarAjahaMsAH>
+;sam deleted <taruRyo>
 Verse 1463: difference at verse line 2
+;corrected to <saMsparSaScandanAdatiricyate>
 Verse 1482: difference at verse line 2
+;corrected to <abalAvirahatkleSavihvalo>
 Verse 1487: difference at verse line 3
+;sam corrected to <praBaviturDarmasya>
 Verse 1489: differences at verse lines 1,2
+;sam OK
 Verse 1496: difference at verse line 2
+;sam OK
 Verse 1497: difference at verse line 2
+;sam corrected to <nAsti>
 Verse 1504: difference at verse line 2
+;sam corrected to <muktvA>
 Verse 1512: difference at verse line 2
+;sam corrected to <samucCvasitaM>
 Verse 1513: difference at verse line 1
+;sam corrected to <kaWinahfdayastyaktvA>
 Verse 1516: difference at verse line 2
+;sam corrected to <patanti>
 Verse 1519: difference at verse line 2
+;sam OK
 Verse 1522: difference at verse line 1
+;sam corrected to <kAntAgAre parimalamilatpuzpaSayane>
 Verse 1531: difference at verse line 1
+;sam corrected to <karA~lleQi>
 Verse 1547: differences at verse lines 1,2
+;sam corrected to <karRastvacaM>
 Verse 1569,1570: difference at verse line 4
+;sam corrected to <karmayogamasaktaH>
 Verse 1573,1574: differences at verse lines 2,3
+;corrected <subudDiBiH>
+;deleted <striyo>
 Verse 1582: difference at verse line 1
+;sam OK
 Verse 1593: difference at verse line 2
+;sam corrected to <cAraBawacOracewakanawaviwanizWIvanaSarAvam>
 Verse 1596: difference at verse line 1
+;sam added <kazwaM>
 Verse 1598: difference at verse line 2
+;sam corrected to <parajanamanaraYjanI>
 Verse 1603: difference at verse line 4
+;sam corrected to <mArgasTitasyApi>
 Verse 1605: difference at verse line 2
+;sam corrected to <kasmAddudvijitavyaM>
 Verse 1612: difference at verse line 1
+;sam corrected <BedaH>
 Verse 1618: difference at verse line 2
+;sam corrected to <<tklIbe>>
 Verse 1626: difference at verse line 2
+;sam OK
 Verse 1628: difference at verse line 1
+;sam corrected to <kAntAre>
 Verse 1630: difference at verse line 1
+;sam corrected to <fRasya>
 Verse 1631: difference at verse line 1
+;sam corrected to <gamaya>
 Verse 1632: difference at verse line 1
+;corrected scan error <cAturyamudDatamanoBavayA>
 Verse 1634: difference at verse line 3
+;sam corrected to <duzkarametadityatitarAmuktvA>
 Verse 1647: difference at verse line 1
+;sam corrected to <tyaktvAtmAnaM>
 Verse 1657: difference at verse line 1
+;sam OK
 Verse 1658: difference at verse line 2
+;sam corrected to <vITIniyamito'pyukzA>
 Verse 1663: difference at verse line 1
+;sam corrected to <kAyatkleSena>
 Verse 1666: difference at verse line 2
+;sam corrected to <kaScitkasyacitpriyaH>
 Verse 1680: difference at verse line 2
+;sam corrected to <vikarRErnayoktiBiryuktamuktamapi>
 Verse 1687: difference at verse line 1
+;sam corrected to <SItozRayoH>
 Verse 1689: difference at verse line 1
+;sam corrected to <pariRAmavaSAdanarGyA>
 Verse 1694: difference at verse line 2
+;sam corrected to <gatAH>
 Verse 1698: difference at verse line 2
+;sam corrected to <janmajanmani>
 Verse 1705: difference at verse line 4
+;sam OK
 Verse 1707: difference at verse line 2
+;sam corrected to <BakzyAnmandakramo'pyajagaraH>
 Verse 1709: difference at verse line 1
+;sam corrected to <kAlo>
 Verse 1716: difference at verse line 1
-Verse 1718: differences at verse lines 1,4
+;sam corrected to <kAsArezu>
+Verse 1718: differences at verse lines 1,
+;sam corrected to <puzpasrajaH>
 Verse 1721: difference at verse line 3
+;sam corrected to <BavaduHKaBAraracanAviDvaMsikAlAnalaM>
 Verse 1738: difference at verse line 2
+;sam corrected to <duzkarasADanaM>
 Verse 1739: difference at verse line 2
+;sam OK
 Verse 1741: difference at verse line 2
+;sam OK
 Verse 1743: difference at verse line 4
+;sam corrected to <kuryAtkvacit>
 Verse 1747: difference at verse line 1
+;sam deleted space
 Verse 1748: difference at verse line 2
+;sam corrected to <BaktimAn>
 Verse 1750: difference at verse line 2
+;sam corrected <kaScidbibbokErbakasahavAsinAM>
 Verse 1753: difference at verse line 2
+;sam corrected to <yattvanmUlanizaRaKinnapaTikaH>
 Verse 1759: difference at verse line 1
+;sam corrected to <kiM>
 Verse 1771: difference at verse line 1
+;sam corrected to <puruzARAM>
 Verse 1779: difference at verse line 2
+;sam OK
 Verse 1783: difference at verse line 2
+;sam corrected <kzORInATa>
 Verse 1793: difference at verse line 2
+;sam corrected to <avaDIraRA>
 Verse 1804: difference at verse line 2
+;sam corrected to <BavatyarTaviparyaye>
 Verse 1805: difference at verse line 2
+;sam corrected to <nEvAsti>
 Verse 1808: difference at verse line 4
+;sam corrected to <yuzmatparicitim>
 Verse 1809: difference at verse line 2
+;sam corrected <kudAradArESca>
 Verse 1810: difference at verse line 4
+;sam added <yaTA>
 Verse 1811,1812: difference at verse line 2
+;sam corrected to <saMSrayet>
 Verse 1814: difference at verse line 2
+;sam corrected <vindatyalasaH>
 Verse 1819: difference at verse line 1
+;sam corrected to <BUtapUrvatAm>
 Verse 1824: difference at verse line 2
+;sam corrected to <jArArTe>
 Verse 1828: difference at verse line 2
+;sam corrected to <DarmizWo>
 Verse 1830: difference at verse line 1
+;sam OK
 Verse 1831: differences at verse lines 1,2
+;sam corrected typos
 Verse 1838: difference at verse line 2
+;sam corrected <tyajantyete'vamantAraM>
 Verse 1841: difference at verse line 1
+;sam corrected to <mitratAm>
 Verse 1848: difference at verse line 2
+;sam corrected to <rAkzasaH>
 Verse 1850: difference at verse line 2
+;sam corrected to <BaveduzRamuzRakAle>
 Verse 1851: differences at verse lines 3,4
+;sam corrected to <vAmAkzIRAmavajYAvihasitavasatirvfdDaBAvo'pyasADuH>
 Verse 1863: difference at verse line 2
+;sam corrected to <kiM>
 Verse 1870: difference at verse line 2
+;sam corrected to <piRqitEstridaSErapi>
 Verse 1871: difference at verse line 3
+;sam OK
 Verse 1876: difference at verse line 1
+;sam corrected to <smitamaDuramaByudgamaviDiH>
 Verse 1878: difference at verse line 1
+;sam OK
 Verse 1895: difference at verse line 3
+;sam corrected to <piWarakakapAlArditagalaH>
 Verse 1903: difference at verse line 2
+;sam corrected to <na>
 Verse 1912: difference at verse line 1
+;sam OK
 Verse 1913: difference at verse line 1
+;sam OK
 Verse 1916: difference at verse line 2
+;sam corrected to <antarvaktramapi>
 Verse 1929: difference at verse line 2
+;sam corrected to <snehaH>
 Verse 1933: difference at verse line 2
+;sam corrected to <kaviprajApatIMstyaktvA>
 Verse 1946: difference at verse line 2
+;sam OK
 Verse 1948: difference at verse line 2
+;sam corrected to <vigrahAsaktacittAnAM>
 Verse 1961: difference at verse line 2
+;sam corrected to <jYAtvA>
 Verse 1985: difference at verse line 3
+;sam corrected to <DanEryAcYAlabDErnanu>
 Verse 1986: difference at verse line 2
+;sam corrected to <lIlAvilasitEH>
 Verse 1987: difference at verse line 1
+;sam corrected to <kvacidBUmISayyaH>
 Verse 1989: difference at verse line 2
+;sam corrected to <kvacidvidvadgozWI>
 Verse 1992: differences at verse lines 2,3
+;sam corrected to <vaktrAmftA->
 Verse 1993: difference at verse line 1
+;sam corrected to <kAMSca>
 Verse 1996: difference at verse line 2
+;sam deleted space
 Verse 1997: difference at verse line 1
+;sam OK
 Verse 1998: difference at verse line 1
+;sam OK
 Verse 2000: difference at verse line 1
+;sam corrected to <kvEtadvaktrAravindaM>
 Verse 2005: difference at verse line 1
+;sam corrected to <sarvasaMskArA>
 Verse 2007: difference at verse line 2
+;sam corrected to <vijYeyO>
 Verse 2008: difference at verse line 1
+;sam OK
 Verse 2009: difference at verse line 2
+;sam corrected to <pratApyorvIM>
 Verse 2014: difference at verse line 2
+;sam added missing word
 Verse 2015: difference at verse line 1
+;sam corrected to <kzAntaM>
 Verse 2017: difference at verse line 1
+;sam corrected to <SItAMSuH>
 Verse 2024: difference at verse line 1
+;sam corrected to <kzIranIrasamAM>
 Verse 2025: difference at verse line 1
+;sam corrected to <gAvo>
 Verse 2027: differences at verse lines 1,2
+;sam corrected to <SiTilaprAyo'pi>
 Verse 2031: difference at verse line 1
+;sam corrected to <kzudrAkzeReva>
 Verse 2032: difference at verse line 3
+;sam corrected to <srotaHpatiM>
 Verse 2033: differences at verse lines 1,2
+;sam corrected to <yatyatAM>
+;sam corrected to <kzudvyADiSca>
 Verse 2038: difference at verse line 1
+;sam corrected to <varzatyftukAlayuktam>
 Verse 2047: # lines different
+;sam corrected several lines
 Verse 2055: difference at verse line 2
+;sam corrected to <yajYastvadakziRaH>
 Verse 2064: difference at verse line 2
+;sam deleted <na>
 Verse 2081: difference at verse line 2
+;sam corrected <budDido'BUt>
 Verse 2082: difference at verse line 1
+;sam corrected to <ganDAQyAM>
+;sam corrected to <maDukarastyaktvA>
 Verse 2088: difference at verse line 1
+;sam deleted space
 Verse 2092: difference at verse line 1
+;sam corrected to <garBatkleSaH>
 Verse 2095: difference at verse line 3
+;sam corrected to <saMtizWate>
 Verse 2100: difference at verse line 1
+;sam corrected to <svAmyarTe>
 Verse 2103: differences at verse lines 2,4
+;sam corrected to <vaktraM>
 Verse 2113: difference at verse line 1
+;sam corrected scan <guRadAridryanirnidrEH>
 Verse 2116: difference at verse line 1
+;corrected to <saMSIlanAdbuDEH>
 Verse 2131: difference at verse line 1
+;corrected to <snAnaSIlaM>
 Verse 2136: difference at verse line 1
+;corrected to <pUjyante>
 Verse 2142: difference at verse line 1
+;sam OK
 Verse 2145: difference at verse line 2
+;sam added candrabindu
 Verse 2149: difference at verse line 2
+;sam corrected to <darddurastvekavAso'pi>
 Verse 2155: difference at verse line 2
+;sam OK
 Verse 2157: difference at verse line 1
+;sam corrected to <guRezveva>
 Verse 2164: difference at verse line 1
+;sam deleted space
 Verse 2169: difference at verse line 2
+;corrected to <SanEScarAByAM>
 Verse 2170: difference at verse line 1
+;deleted <brAhmaRyAM>
 Verse 2177: difference at verse line 2
+;sam corrected to <jagadupakaraRaM>
 Verse 2182: differences at verse lines 1,2
+;sam corrected to <sutAM>
+;sam corrected candrabindu
 Verse 2184: difference at verse line 1
+;sam corrected to <siMhavikramaH>
 Verse 2192: differences at verse lines 1,2
+;sam corrected to <veSma>
+;sam corrected to <duHKAya>
 Verse 2199: difference at verse line 4
+;sam corrected to <kAryAkAryavicAraRAM>
 Verse 2209: difference at verse line 2
+;sam corrected to <sTitiruccEH>
 Verse 2215: difference at verse line 1
+;sam corrected to <snAnaM>
+;sam corrected to <muktAvalI>
