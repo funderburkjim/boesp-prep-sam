@@ -18249,7 +18249,7 @@
 <edit>
 <info L="4154" page="2.398" gtypes="S,D,F"/>
 <S n="4154">
-<s>puzpehanDaM tile tElaM kAzWe vahniM payoGftam .</s>
+<s>puzpe ganDaM tile tElaM kAzWe vahniM payoGftam .</s>
 <s>ikzO guqaM taTA dehe paSyAtmAnaM vivekataH ..</s>
 </S>
 </edit>
@@ -18326,7 +18326,7 @@
 <info L="4160" page="2.399" gtypes="S,D,F,V3"/>
 <S n="4160">
 <s>pUjyate yadapujyo 'pi yadagamyo 'pi gamyate .</s>
-<s>vandyate yadavandyo 'pi sa praBAvo Ganasya ca ..</s>
+<s>vandyate yadavandyo 'pi sa praBAvo Danasya ca ..</s>
 <pb n="2.400"/>
 </S>
 </edit>
@@ -18408,8 +18408,8 @@
 <edit>
 <info L="4169" page="2.401" gtypes="S,D,F"/>
 <S n="4169">
-<s>pUrvaM rAmatapo vane gamanaM hatvA mfgaM kAYcanaM</s>
-<s>vEdehIharaRaM jawAkzamaraRaM sagrIvasADAraRam .</s>
+<s>pUrvaM rAmatapo vane ca gamanaM hatvA mfgaM kAYcanaM</s>
+<s>vEdehIharaRaM jawAkzamaraRaM sugrIvasADAraRam .</s>
 <s>vAlernigrahaRaM samudrataraRaM laNkApurIDvaMsanaM</s>
 <s>paScAdrAvaRakumBakarRahananaM tvetacca rAmAyaRam ..</s>
 </S>
@@ -18418,7 +18418,7 @@
 <edit>
 <info L="4169.1" page="2.401" gtypes="HS"/>
 <HS>
-<s>purvaM vayasi tatkuryAt</s> s. Spruch 4179.
+<s>pUrvaM vayasi tatkuryAt</s> s. Spruch 4179.
 </HS>
 </edit>
 ; ------------------------------------------------
@@ -18442,14 +18442,14 @@
 <info L="4172" page="2.402" gtypes="S,D,F"/>
 <S n="4172">
 <s>pUrvajanmakftaM karma taddEvamiti kaTyate .</s>
-<s>tasmAtpuruzakAreRa yatnaM karyAdatandritaH ..</s>
+<s>tasmAtpuruzakAreRa yatnaM kuryAdatandritaH ..</s>
 </S>
 </edit>
 ; ------------------------------------------------
 <edit>
 <info L="4173" page="2.402" gtypes="S,D,F"/>
 <S n="4173">
-<s>pUrvajanmArjitA vidyA pUrvajanmarjitaM Danam .</s>
+<s>pUrvajanmArjitA vidyA pUrvajanmArjitaM Danam .</s>
 <s>pUrvajanmArjitaM puRyamagre DAvati DAvati ..</s>
 </S>
 </edit>
@@ -18457,7 +18457,7 @@
 <edit>
 <info L="4174" page="2.402" gtypes="S,D,F"/>
 <S n="4174">
-<s>purvaM carati devezu paScAdgacCati mAnuzAn .</s>
+<s>pUrvaM carati devezu paScAdgacCati mAnuzAn .</s>
 <s>nAcoditA vAgvadati satyA hyezA sarasvati ..</s>
 </S>
 </edit>
@@ -18465,18 +18465,18 @@
 <edit>
 <info L="4175" page="2.402" gtypes="S,D,F"/>
 <S n="4175">
-<s>purvadehakftaM karma SuBaM vA yadi vASuBam .</s>
-<s>prAjYaM mUQaM taTA SuraM Bajate yAdfSaM kftam ..</s>
+<s>pUrvadehakftaM karma SuBaM vA yadi vASuBam .</s>
+<s>prAjYaM mUQaM taTA SUraM Bajate yAdfSaM kftam ..</s>
 </S>
 </edit>
 ; ------------------------------------------------
 <edit>
 <info L="4176" page="2.403" gtypes="S,D,F"/>
 <S n="4176">
-<s>purvaM tAvatkuvalayadfSAM lolalolErapANgE-</s>
+<s>pUrvaM tAvatkuvalayadfSAM lolalolErapANgE-</s>
 <s>rAkarzadBiH kimapi hfdayaM pUjitA yOvanaSrIH .</s>
 <s>saMpratyantarnihitasadasadBAvalabDapraboDa-</s>
-<s>pratyAhArOrviSadahfdaye vartate ko 'pi BAvaH ..</s>
+<s>pratyAhArErviSadahfdaye vartate ko 'pi BAvaH ..</s>
 </S>
 </edit>
 ; ------------------------------------------------
@@ -18491,7 +18491,7 @@
 <edit>
 <info L="4178" page="2.403" gtypes="S,D,F"/>
 <S n="4178">
-<s>purve vayasi karmARi kftvApApAni ye narAH .</s>
+<s>pUrve vayasi karmARi kftvA pApAni ye narAH .</s>
 <s>paScAdgaNgAM nizevante te 'pi yAntyuttamAM gatim ..</s>
 </S>
 </edit>
@@ -18556,7 +18556,7 @@
 <edit>
 <info L="4186" page="2.404" gtypes="S,D,F,V5"/>
 <S n="4186">
-<s>pfTivyAM trIRI ratnAni jalamannaM suBAzitam .</s>
+<s>pfTivyAM trIRi ratnAni jalamannaM suBAzitam .</s>
 <s>mUQEH pAzARaKaRqezu ratnasaMKyA viDIyate ..</s>
 <pb n="2.405"/>
 </S>
@@ -18589,16 +18589,16 @@
 <info L="4189" page="2.405" gtypes="S,D,F,V5"/>
 <S n="4189">
 <s>poto dustaravArirASitaraRe dIpo 'nDakArAgame</s>
-<s>nirvAte vyajanaM madAnDakariRAM darpopaSantyE sfRiH .</s>
+<s>nirvAte vyajanaM madAnDakariRAM darpopaSAntyE sfRiH .</s>
 <s>itTaM tadBuvi nAsti yasya viDina nopAyacintA kftA</s>
-<s>manye durjanacittavfttiharaRe DAtApi BagnedyamaH ..</s>
+<s>manye durjanacittavfttiharaRe DAtApi BagnodyamaH ..</s>
 </S>
 </edit>
 ; ------------------------------------------------
 <edit>
 <info L="4190,4191" page="2.405" gtypes="S,S,D,D,F"/>
 <S n="4190">
-<s>pOrajAapadAnrAjA prARErizwAnsutAniva .</s>
+<s>pOrajAnapadAnrAjA prARErizwAnsutAniva .</s>
 <s>yo na rakzati durmeDAH sa narErBuvi garhitaH ..</s>
 <pb n="2.406"/>
 </S>
@@ -18628,7 +18628,7 @@
 <info L="4193" page="2.406" gtypes="S,D,F,V3,V5"/>
 <S n="4193">
 <s>pOlasyaH kaTamanyadAraharaRe dozaM na vijYAtavA-</s>
-<s>nrameRApi kaTaM na hemahariRasyAsaMBavo lakzitaH .</s>
+<s>nrAmeRApi kaTaM na hemahariRasyAsaMBavo lakzitaH .</s>
 <s>akzEScApi yuDizWireRa sahasA prApto hyanarTaH kaTaM</s>
 <s>pratyAsannavipattimUQamanasAM prAyo matiH kzIyate ..</s>
 </S>
@@ -18645,7 +18645,7 @@
 <info L="4194" page="2.406" gtypes="S,D,F"/>
 <S n="4194">
 <s>prakawAnyapi nEpuRaM mahatparavAcyAni cirAya gopitum .</s>
-<s>vivarItumaTAtmano guRAnBfSamAkOSalamArya cetasAm ..</s>
+<s>vivarItumaTAtmano guRAnBfSamAkOSalamAryacetasAm ..</s>
 </S>
 </edit>
 ; ------------------------------------------------
@@ -18660,7 +18660,7 @@
 <edit>
 <info L="4195.1" page="2.407" gtypes="HS"/>
 <HS>
-<s>prakIRe vizayAraRye</s> s. den vorangehenden Spruch.
+<s>prakIrRe vizayAraRye</s> s. den vorangehenden Spruch.
 </HS>
 </edit>
 ; ------------------------------------------------
@@ -18668,7 +18668,7 @@
 <info L="4196" page="2.407" gtypes="S,D,F"/>
 <S n="4196">
 <s>prakupyatyapratIkArye svatejastaptacetasAm .</s>
-<s>SaraRaM maraRaM tyakktvA kimivAnyadyaSo 'rTinAm ..</s>
+<s>SaraRaM maraRaM tyaktvA kimivAnyadyaSo 'rTinAm ..</s>
 </S>
 </edit>
 ; ------------------------------------------------
@@ -18729,7 +18729,7 @@
 <edit>
 <info L="4202" page="2.408" gtypes="S,D,F"/>
 <S n="4202">
-<s>prajA na ra Yjayedyastu rAjA rakzAdiBirguREH .</s>
+<s>prajA na raYjayedyastu rAjA rakzAdiBirguREH .</s>
 <s>ajAgalastanasyeva tasya nAma nirarTakam ..</s>
 </S>
 </edit>
@@ -18737,7 +18737,7 @@
 <edit>
 <info L="4203" page="2.408" gtypes="S,D,F"/>
 <S n="4203">
-<s>prajAnaM rakzaRaM samyagrAjYo Darmasya kAraRam .</s>
+<s>prajAnAM rakzaRaM samyagrAjYo Darmasya kAraRam .</s>
 <s>arakzannarakaM yAti tasmAdrakzyAH sadA prajAH ..</s>
 </S>
 </edit>
@@ -18767,7 +18767,7 @@
 <edit>
 <info L="4204.1" page="2.409" gtypes="HS"/>
 <HS>
-<s>prajAM nAnandayodyastu</s> s. Spruch 4202.
+<s>prajAM nAnandayedyastu</s> s. Spruch 4202.
 </HS>
 </edit>
 ; ------------------------------------------------
@@ -18782,7 +18782,7 @@
 <edit>
 <info L="4206" page="2.409" gtypes="S,D,F,V3"/>
 <S n="4206">
-<s>prajApIqanasaMtApApAtsumudBUto hutASanaH .</s>
+<s>prajApIqanasaMtApAtsamudBUto hutASanaH .</s>
 <s>rAjYaH SriyaM kulaM prARAnnAdagDA vinivartate ..</s>
 </S>
 </edit>
@@ -18806,8 +18806,8 @@
 <edit>
 <info L="4209" page="2.409" gtypes="S,D,F"/>
 <S n="4209">
-<s>prajYayA mAnasaM duHKaM hanyAcCarIramOzaDEH .</s>
-<s>etAdvijYAnasAmarTyaM na bAlEH samatAmiyAt ..</s>
+<s>prajYayA mAnasaM duHKaM hanyAcCArIramOzaDEH .</s>
+<s>etadvijYAnasAmarTyaM na bAlEH samatAmiyAt ..</s>
 <pb n="2.410"/>
 </S>
 </edit>
@@ -18815,8 +18815,8 @@
 <edit>
 <info L="4210" page="2.410" gtypes="S,D,F"/>
 <S n="4210">
-<s>prajYAguptaSarIsya kiM karizyanti SatravaH .</s>
-<s>gfhItacCattrahastasya bAriDArA karoti kim ..</s>
+<s>prajYAguptaSarIrasya kiM karizyanti SatravaH .</s>
+<s>gfhItacCattrahastasya vAriDArA karoti kim ..</s>
 </S>
 </edit>
 ; ------------------------------------------------
@@ -18840,14 +18840,14 @@
 <info L="4213" page="2.410" gtypes="S,D,F"/>
 <S n="4213">
 <s>prajYAmevAgamayati yaH prAjYeByaH sa paRqitaH .</s>
-<s>prAjYo hyavApya DarmarTOM Saknoti suKameDitum ..</s>
+<s>prAjYo hyavApya DarmArTO Saknoti suKameDitum ..</s>
 </S>
 </edit>
 ; ------------------------------------------------
 <edit>
 <info L="4214" page="2.410" gtypes="S,D,F"/>
 <S n="4214">
-<s>prajYcAMstveva puruzaH saMyuktaH parayA DiyA .</s>
+<s>prajYAvAMstveva puruzaH saMyuktaH parayA DiyA .</s>
 <s>udayAstamanajYo hi na hfzyati na Socati ..</s>
 <pb n="2.411"/>
 </S>
@@ -18857,14 +18857,14 @@
 <info L="4215" page="2.411" gtypes="S,D,F"/>
 <S n="4215">
 <s>prajYAvfdDaM DarmavfdDaM svabanDuM vidyAvfdDaM vayasA cApi vfdDam .</s>
-<s>kAryAkArye pUjayitva prasAdya yaH sampfcCenna sa muhyetkadAcit ..</s>
+<s>kAryAkArye pUjayitvA prasAdya yaH saMpfcCenna sa muhyetkadAcit ..</s>
 </S>
 </edit>
 ; ------------------------------------------------
 <edit>
 <info L="4216" page="2.411" gtypes="S,D,F"/>
 <S n="4216">
-<s>prajYASareRABihatasya jantoScikitsakAH santi cOzaDAni .</s>
+<s>prajYASareRABihatasya jantoScikitsakAH santi na cOzaDAni .</s>
 <s>na homamantrA na ca maNgalAni nATarvaRA nApyagadAH susidDAH ..</s>
 </S>
 </edit>
@@ -18889,7 +18889,7 @@
 <S n="4218">
 <s>praRayamaDurAH premodgAQA rasAdalasAstaTA</s>
 <s>BaRitimaDurA mugDaprAyAH prakASitasaMmadAH .</s>
-<s>prakftisuBAgA viSramBArhAH smarodayadAyino</s>
+<s>prakftisuBagA viSramBArhAH smarodayadAyino</s>
 <s>rahasi kimapi svErAlApA haranti mfgIdfSAm ..</s>
 </S>
 </edit>
@@ -18897,7 +18897,7 @@
 <edit>
 <info L="4219" page="2.412" gtypes="S,D,F"/>
 <S n="4219">
-<s>praRayAdupakArAdvA yo viSvasita Satruzu .</s>
+<s>praRayAdupakArAdvA yo viSvasiti Satruzu .</s>
 <s>sa supta iva vfkzAgre patitaH pratibuDyate ..</s>
 </S>
 </edit>
@@ -18914,15 +18914,15 @@
 <info L="4221" page="2.412" gtypes="S,D,F"/>
 <S n="4221">
 <s>praRipAtena dAnena vAcA maDurayA bruvan .</s>
-<s>amitramapi sevena na ca jAtu viSagkayet ..</s>
+<s>amitramapi sevena na ca jAtu viSaNkayet ..</s>
 </S>
 </edit>
 ; ------------------------------------------------
 <edit>
 <info L="4222" page="2.412" gtypes="S,D,F"/>
 <S n="4222">
-<s>praRipAtena hi gurUndato 'nUcAnacezwitEH .</s>
-<s>kurvItABimuKAnBUtyE devAnsukftarmaRA ..</s>
+<s>praRipAtena hi gurUnsato 'nUcAnacezwitEH .</s>
+<s>kurvItABimuKAnBUtyE devAnsukftakarmaRA ..</s>
 </S>
 </edit>
 ; ------------------------------------------------
@@ -18930,14 +18930,14 @@
 <info L="4223" page="2.412" gtypes="S,D,F"/>
 <S n="4223">
 <s>praRItaScApraRItaSca yaTAgnirdEvataM mahat .</s>
-<s>evaM vidvAnavidvAMSca vrAhmaRo dEvataM mahat ..</s>
+<s>evaM vidvAnavidvAMSca brAhmaRo dEvataM mahat ..</s>
 </S>
 </edit>
 ; ------------------------------------------------
 <edit>
 <info L="4224" page="2.412" gtypes="S,D,F"/>
 <S n="4224">
-<s>prAtApamAyatiM SoBAM hemantAhasya vAridaH .</s>
+<s>pratApamAyatiM SoBAM hemantAhasya vAridaH .</s>
 <s>smftiSezAM karotyeva loBaSca pfTivIBujAm ..</s>
 </S>
 </edit>
@@ -18955,7 +18955,7 @@
 <S n="4226">
 <s>pratikUlatAmupagate hi viDO</s>
 <s>viPalatvameti bahusADanatA .</s>
-<s>avalambanAya dinaBartaraBU-</s>
+<s>avalambanAya dinaBarturaBU-</s>
 <s>nna patizyataH karasahasramapi ..</s>
 </S>
 </edit>
@@ -18979,7 +18979,7 @@
 <info L="4228" page="2.413" gtypes="S,D,F"/>
 <S n="4228">
 <s>pratidivasaM yAti layaM vasantavAtAhateva SiSiraSrIH .</s>
-<s>budDirbumatAmapi kuwumbaBArasya cintABiH ..</s>
+<s>budDirbudDimatAmapi kuwumbaBArasya cintABiH ..</s>
 </S>
 </edit>
 ; ------------------------------------------------
@@ -19011,7 +19011,7 @@
 <info L="4232,4233" page="2.414" gtypes="S,S,D,D,F"/>
 <S n="4232">
 <s>pratizedDA hi pApasya yadA lokezu vidyate .</s>
-<s>tadA sarvezu lokezu pApakfnopapadyate ..</s>
+<s>tadA sarvezu lokezu pApakfnnopapadyate ..</s>
 </S>
 <S n="4233">
 <s>yadA tu pratizedDAraM pApo na laBate kvacit .</s>
@@ -19039,7 +19039,7 @@
 <info L="4236" page="2.415" gtypes="S,D,F"/>
 <S n="4236">
 <s>pratyakzaM vA parokzaM vA kasyacinnApriyaM vadet .</s>
-<s>SuzkavEaM vivAdaM ca na kuryAtkenacitsaha ..</s>
+<s>SuzkavEraM vivAdaM ca na kuryAtkenacitsaha ..</s>
 </S>
 </edit>
 ; ------------------------------------------------
@@ -19047,7 +19047,7 @@
 <info L="4237" page="2.415" gtypes="S,D,F"/>
 <S n="4237">
 <s>pratyakzaM guRavAdI yaH parokze cApi nindakaH .</s>
-<s>samAnavaH Svalloke nazwalokaparAvaraH ..</s>
+<s>sa mAnavaH Svavalloke nazwalokaparAvaraH ..</s>
 </S>
 </edit>
 ; ------------------------------------------------
@@ -19055,7 +19055,7 @@
 <info L="4238" page="2.415" gtypes="S,D,F,V4"/>
 <S n="4238">
 <s>pratyakze guravaH stutyAH parokze mitrabAnDavAH .</s>
-<s>armAnta dAsaBftyASca putrA nEva mftAH striyaH ..</s>
+<s>karmAnte dAsaBftyASca putrA nEva mftAH striyaH ..</s>
 </S>
 </edit>
 ; ------------------------------------------------
@@ -19084,7 +19084,7 @@
 <edit>
 <info L="4240" page="2.415" gtypes="S,D,F"/>
 <S n="4240">
-<s>pratyahaM pratyavekzeta naracaritamAtmanaH .</s>
+<s>pratyahaM pratyavekzeta naraScaritamAtmanaH .</s>
 <s>kiM nu me paSuBistulyaM kiM nu satpuruzEriti ..</s>
 </S>
 </edit>
@@ -19101,8 +19101,8 @@
 <info L="4242" page="2.416" gtypes="S,D,F"/>
 <S n="4242">
 <s>pratyAsattiM madakarawino dAnaganDena vAyu-</s>
-<s>rgarjodBUtiM prakawitaruciScalevAmbudasya .</s>
-<s>cezwA spazwaM vadati matimanEpuRonneyatattvA</s>
+<s>rgarjodBUtiM prakawitaruciScaYcalevAmbudasya .</s>
+<s>cezwA spazwaM vadati matimannEpuRonneyatattvA</s>
 <s>jantorjanmAntaraparicitAM niScalAM cittavfttim ..</s>
 </S>
 </edit>
@@ -19110,7 +19110,7 @@
 <edit>
 <info L="4242.1" page="2.416" gtypes="HS"/>
 <HS>
-<s>pratyatTAnaM ca yudDa ca</s> s. Spruch <s>yudDaM ca prAtarutTAnam</s>.
+<s>pratyutTAnaM ca yudDaM ca</s> s. Spruch <s>yudDaM ca prAtarutTAnam</s>.
 </HS>
 </edit>
 ; ------------------------------------------------
@@ -19133,8 +19133,8 @@
 <edit>
 <info L="4245" page="2.416" gtypes="S,D,F"/>
 <S n="4245">
-<s>pratyUhaH sarvAsidDInAmuttApaH praTama kila .</s>
-<s>atiSItalamapyamBaH kim Binatti na BUBftaH ..</s>
+<s>pratyUhaH sarvasidDInAmuttApaH praTamaM kila .</s>
+<s>atiSItalamapyamBaH kiM Binatti na BUBftaH ..</s>
 <pb n="2.417"/>
 </S>
 </edit>
@@ -19150,8 +19150,8 @@
 <edit>
 <info L="4247" page="2.417" gtypes="S,D,F"/>
 <S n="4247">
-<s>praTamaM yudDajkAritvaM samastabalapAlanam .</s>
-<s>diNnargARAM viSoDitvaM pattikarma pracakzate ..</s>
+<s>praTamaM yudDakAritvaM samastabalapAlanam .</s>
+<s>diNmArgARAM viSoDitvaM pattikarma pracakzate ..</s>
 </S>
 </edit>
 ; ------------------------------------------------
@@ -19159,7 +19159,7 @@
 <info L="4248" page="2.417" gtypes="S,D,F"/>
 <S n="4248">
 <s>praTamaM saMsTitA BAryA patiM pretya pratIkzate .</s>
-<s>pUrvaM mftaM ca BartAraM paScAtsaDyanugacCati ..</s>
+<s>pUrvaM mftaM ca BartAraM paScAtsADvyanugacCati ..</s>
 </S>
 </edit>
 ; ------------------------------------------------
@@ -19177,14 +19177,14 @@
 <info L="4250" page="2.418" gtypes="S,D,F"/>
 <S n="4250">
 <s>praTamA gatirAtmEva dvitIyA gatirAtmajaH .</s>
-<s>santo gatistftIyoktA caturTI DarmasamcayaH ..</s>
+<s>santo gatistftIyoktA caturTI DarmasaMcayaH ..</s>
 </S>
 </edit>
 ; ------------------------------------------------
 <edit>
 <info L="4251" page="2.418" gtypes="S,D,F,V3"/>
 <S n="4251">
-<s>praTeme nArjitA vidyA dvitIye nArjitaM Danam .</s>
+<s>praTame nArjitA vidyA dvitIye nArjitaM Danam .</s>
 <s>tftIye nArjitaM puRyaM caturTe kiM karizyati ..</s>
 </S>
 </edit>
@@ -19199,7 +19199,7 @@
 <edit>
 <info L="4251.2" page="2.418" gtypes="HS"/>
 <HS>
-<s>praTitaH praRAyavatInAm</s> s. Spruch <s>priyapurato yuvatInAm</s>.
+<s>praTitaH praRayavatInAm</s> s. Spruch <s>priyapurato yuvatInAm</s>.
 </HS>
 </edit>
 ; ------------------------------------------------
@@ -19232,7 +19232,7 @@
 <info L="4254" page="2.419" gtypes="S,D,F"/>
 <S n="4254">
 <s>pradoze nihataH panTAH patitA nihatAH striyaH .</s>
-<s>alpabIjaM hataM kzetra BftyadozAdDataH praBuH ..</s>
+<s>alpabIjaM hataM kzetraM BftyadozAdDataH praBuH ..</s>
 </S>
 </edit>
 ; ------------------------------------------------
@@ -19240,14 +19240,14 @@
 <info L="4255" page="2.419" gtypes="S,D,F,V5"/>
 <S n="4255">
 <s>praBavati manasi viveko viduzAmapi SAstrasaMBavastAvat .</s>
-<s>nipatanti dfzwiviSiKA yAvannendIvarakzIRAm ..</s>
+<s>nipatanti dfzwiviSiKA yAvannendIvarAkzIRAm ..</s>
 </S>
 </edit>
 ; ------------------------------------------------
 <edit>
 <info L="4256" page="2.419" gtypes="S,D,F"/>
 <S n="4256">
-<s>praBusAdajaM vittaM supAtre yo niyojayet .</s>
+<s>praBuprasAdajaM vittaM supAtre yo niyojayet .</s>
 <s>vastrAdyaM vidaDAtyaNge sa BavedrAjavallaBaH ..</s>
 </S>
 </edit>
@@ -19255,7 +19255,7 @@
 <edit>
 <info L="4257" page="2.419" gtypes="S,D,F"/>
 <S n="4257">
-<s>praBuragniH pratapane BUmirAvapane pnaBuH .</s>
+<s>praBuragniH pratapane BUmirAvapane praBuH .</s>
 <s>praBuH sUryaH prakASitve satAM cAByAgataH praBuH ..</s>
 </S>
 </edit>
@@ -19263,7 +19263,7 @@
 <edit>
 <info L="4258" page="2.420" gtypes="S,D,F"/>
 <S n="4258">
-<s>praBuvarvItakzAntiH suhfdatiSaWaH strI paruzavA-</s>
+<s>praBurvItakzAntiH suhfdatiSaWaH strI paruzavA-</s>
 <s>ksuto garvonnadDaH parijana udAttaprativacAH .</s>
 <s>iyAnsoQuM Sakyo nanu hfdayadAhI parikaro</s>
 <s>na tu SrotAvajYAlulitanayanAntaM pariBavan ..</s>
@@ -19281,7 +19281,7 @@
 <edit>
 <info L="4260" page="2.420" gtypes="S,D,F"/>
 <S n="4260">
-<s>praBuH SarIrapraBavaH priyakfdvfttiMdo varaH .</s>
+<s>praBuH SarIrapraBavaH priyakfdvfttido varaH .</s>
 <s>hitAnAmupadezwA ca pratyakzaM dEvataM pitA ..</s>
 </S>
 </edit>
@@ -19297,7 +19297,7 @@
 <edit>
 <info L="4261.1" page="2.420" gtypes="HS"/>
 <HS>
-<s>praBUtamalpakAryam (alpaM kAryaM) vA</s> s. den vorangeheden Spruch.
+<s>praBUtamalpakAryaM (alpaM kAryaM) vA</s> s. den vorangeheden Spruch.
 </HS>
 </edit>
 ; ------------------------------------------------
@@ -19313,7 +19313,7 @@
 <info L="4263" page="2.420" gtypes="S,D,F"/>
 <S n="4263">
 <s>praBoH prasAdamanyasya na sahantIha sevakAH .</s>
-<s>sapatnya iva samkrudDAH sapatnyAH svAkfterapi ..</s>
+<s>sapatnya iva saMkrudDAH sapatnyAH svAkfterapi ..</s>
 <pb n="2.421"/>
 </S>
 </edit>
@@ -19335,8 +19335,8 @@
 <edit>
 <info L="4264" page="2.421" gtypes="S,D,F"/>
 <S n="4264">
-<s>pramARAByaGikasya ca gaRqaSyAmamadacyuteH .</s>
-<s>padaM mUrGri samADatte kesarI mattadantinaH ..</s>
+<s>pramARAByaDikasya ca gaRqaSyAmamadacyuteH .</s>
+<s>padaM mUrDni samADatte kesarI mattadantinaH ..</s>
 </S>
 </edit>
 ; ------------------------------------------------
@@ -19344,21 +19344,21 @@
 <info L="4265" page="2.421" gtypes="S,D,F"/>
 <S n="4265">
 <s>pramAdaH paramo dvizI pramAdaH paramaM vizam .</s>
-<s>pramAde muktipUrdasyuH pramado narakAyanam ..</s>
+<s>pramAde muktipUrdasyuH pramAdo narakAyanam ..</s>
 </S>
 </edit>
 ; ------------------------------------------------
 <edit>
 <info L="4265.1" page="2.421" gtypes="HS"/>
 <HS>
-<s>pramAdinAM taTA cOrA</s> s. Spruch 2962.
+<s>pramAdinAM taTA cOrAH</s> s. Spruch 2962.
 </HS>
 </edit>
 ; ------------------------------------------------
 <edit>
 <info L="4266" page="2.421" gtypes="S,D,F"/>
 <S n="4266">
-<s>pramIyate cAsya prajA hyakAle sadA vivAsaM pitare 'sya kurvate .</s>
+<s>pramIyate cAsya prajA hyakAle sadA vivAsaM pitaro 'sya kurvate .</s>
 <s>BItaM prapannaM pradadAti Satrave sendrA devAH praharantyasya vajram ..</s>
 </S>
 </edit>
@@ -19366,7 +19366,7 @@
 <edit>
 <info L="4267" page="2.421" gtypes="S,D,F"/>
 <S n="4267">
-<s>prayatraM kftavanto 'pi dfSyante hyaPalA narAH .</s>
+<s>prayatnaM kftavanto 'pi dfSyante hyaPalA narAH .</s>
 <s>mArgatyAyaSatErarTAnamArgaMScAparaH suKI ..</s>
 <pb n="2.422"/>
 </S>
@@ -19468,7 +19468,7 @@
 <info L="4275" page="2.423" gtypes="S,D,F"/>
 <S n="4275">
 <s>pravfttavAkcitrakaTa UhavAnpratiBAnavAn .</s>
-<s>ASu grandTArTavaktA ca yaH sa paRqita ucyate ..</s>
+<s>ASu granTArTavaktA ca yaH sa paRqita ucyate ..</s>
 </S>
 </edit>
 ; ------------------------------------------------
@@ -19495,17 +19495,17 @@
 <edit>
 <info L="4279" page="2.424" gtypes="S,D,F"/>
 <S n="4279">
-<s>praSAtaSAstrArTAvicAracApalaM</s>
+<s>praSAntaSAstrArTAvicAracApalaM</s>
 <s>nivfttanAnArasakAvyakOtukam .</s>
-<s>nirastanihSozavikalpaviplavaM</s>
-<s>prayattumanvicCati SUlinaM manaH ..</s>
+<s>nirastaniHSezavikalpaviplavaM</s>
+<s>prapattumanvicCati SUlinaM manaH ..</s>
 </S>
 </edit>
 ; ------------------------------------------------
 <edit>
 <info L="4280" page="2.424" gtypes="S,D,F"/>
 <S n="4280">
-<s>prasannavavadano hfzwaH spazwavAkyaH sarozadfk .</s>
+<s>prasannavadano hfzwaH spazwavAkyaH sarozadfk .</s>
 <s>saBAyAM vakti sAmarzaH sAvazwamBo naraH SuciH ..</s>
 </S>
 </edit>
@@ -19529,17 +19529,17 @@
 <info L="4282" page="2.425" gtypes="S,D,F"/>
 <S n="4282">
 <s>prasarati manaH kAryAramBe dfQIBavati spfhA</s>
-<s>svayamupanayannarTAnmantro na gacCati viplavan .</s>
-<s>Palati sakalaM kftyaM vittaM samunnatimaSnute</s>
-<s>Bavati ca ratiH SlADye kftye narasya BavizyataH ..</s>
+<s>svayamupanayannarTAnmantro na gacCati viplavam .</s>
+<s>Palati sakalaM kftyaM cittaM samunnatimaSnute</s>
+<s>Bavati ca ratiH SlAGye kftye narasya BavizyataH ..</s>
 </S>
 </edit>
 ; ------------------------------------------------
 <edit>
 <info L="4283" page="2.425" gtypes="S,D,F,V4"/>
 <S n="4283">
-<s>prasahya maRimudDarenmaravakktradaMzwrANkurA-</s>
-<s>tsamudramapi saMretpracaladUrmimAlAkulam .</s>
+<s>prasahya maRimudDarenmakaravaktradaMzwrANkurA-</s>
+<s>tsamudramapi saMtaretpracaladUrmimAlAkulam .</s>
 <s>BujaMgamapi kopitaM Sirasi puzpavadDAraye-</s>
 <s>nna tu pratinivizwamUrKajanacittamArADayet ..</s>
 </S>
@@ -19580,8 +19580,8 @@
 <edit>
 <info L="4288" page="2.426" gtypes="S,D,F"/>
 <S n="4288">
-<s>prasTAnaM valayEH kftaM priyasaKEraSreirajasraM gataM</s>
-<s>DftyA na kzaRamAsitaM vyavasitaM citena gantuM puraH .</s>
+<s>prasTAnaM valayEH kftaM priyasaKEraSrErajasraM gataM</s>
+<s>DftyA na kzaRamAsitaM vyavasitaM cittena gantuM puraH .</s>
 <s>yAtuM niScitacetasi priyatame sarve samaM prasTitA</s>
 <s>gantavye sati jIvitapriya suhftsArTaH kimu tyajyate ..</s>
 </S>
@@ -19600,7 +19600,7 @@
 <edit>
 <info L="4290" page="2.427" gtypes="S,D,F,V4"/>
 <S n="4290">
-<s>prasvedamalasamSlezwA nirAlambA nirASrayAH .</s>
+<s>prasvedamalasaMSlezwA nirAlambA nirASrayAH .</s>
 <s>dvAri tizWanti deveSa sevakA vfzaRA iva ..</s>
 </S>
 </edit>
@@ -19609,7 +19609,7 @@
 <info L="4291" page="2.427" gtypes="S,D,F"/>
 <S n="4291">
 <s>praharaviratO maDye vAhnastato 'pi pare 'Ta vA</s>
-<s>dinakfti gate vastaM nATa tvamadya samezyasi .</s>
+<s>dinakfti gate vAstaM nATa tvamadya samezyasi .</s>
 <s>iti dinaSataprApyaM deSaM priyasya yiyAsato</s>
 <s>harati gamanaM bAlAlApEH sabAzpaJalajJalEH ..</s>
 </S>
@@ -19618,8 +19618,8 @@
 <edit>
 <info L="4292" page="2.427" gtypes="S,D,F"/>
 <S n="4292">
-<s>prajarizyanpriyaM brUyAtpraharannapi BArata .</s>
-<s>prahftya ca krpAyIta Soceta ca rudeta ca ..</s>
+<s>praharizyanpriyaM brUyAtpraharannapi BArata .</s>
+<s>prahftya ca kfpAyIta Soceta ca rudeta ca ..</s>
 </S>
 </edit>
 ; ------------------------------------------------
@@ -19660,7 +19660,7 @@
 <edit>
 <info L="4297" page="2.428" gtypes="S,D,F"/>
 <S n="4297">
-<s>prAgalByahInsya narasya vidyA SastraM yaTA kApuruzasya haste .</s>
+<s>prAgalByahInasya narasya vidyA SastraM yaTA kApuruzasya haste .</s>
 <s>na tfptimutpAdayate SarIre vfdDasya dArA iva darSanIyAH ..</s>
 </S>
 </edit>
@@ -19676,9 +19676,9 @@
 <edit>
 <info L="4299" page="2.429" gtypes="S,D,F"/>
 <S n="4299">
-<s>prANnA meti manAgamAitaguRaM jAtABilAzaM tataH</s>
+<s>prANnA meti manAgamAnitaguRaM jAtABilAzaM tataH</s>
 <s>savrIqaM tadanu SlaTodyamamanu pratyastaDEryaM punaH .</s>
-<s>premArdraM spfhaRIyanirBararahaHkrIqApragalBaM tato</s>
+<s>premArdraM spfhaRIyanirBararahaH krIqApragalBaM tato</s>
 <s>niHSaNkANgavikarzaRADikasuKaM ramyaM kulastrIratam ..</s>
 </S>
 </edit>
@@ -19686,7 +19686,7 @@
 <edit>
 <info L="4300" page="2.429" gtypes="S,D,F"/>
 <S n="4300">
-<s>prAjApStye Sakawe Binne kftveva pAtakaM vasuDA .</s>
+<s>prAjApatye Sakawe Binne kftveva pAtakaM vasuDA .</s>
 <s>keSAsTiSakalaSabalA kApAlamiva vrataM Datte ..</s>
 </S>
 </edit>
@@ -19709,7 +19709,7 @@
 <edit>
 <info L="4302" page="2.430" gtypes="S,D,F"/>
 <S n="4302">
-<s>prAjYAstejasvinaH samyakpaSyati ca vadanti ca .</s>
+<s>prAjYAstejasvinaH samyakpaSyanti ca vadanti ca .</s>
 <s>te 'vajYAtA mahArAja klAmyanti viramanti ca ..</s>
 </S>
 </edit>
@@ -19761,15 +19761,15 @@
 <edit>
 <info L="4309" page="2.431" gtypes="S,D,F"/>
 <S n="4309">
-<s>prARavadrakzayedBUtyAnsvakAyamiva pozayet .</s>
-<s>sadEkadivasasyArTe yatra syAdripusamgamaH ..</s>
+<s>prARavadrakzayedBftyAnsvakAyamiva pozayet .</s>
+<s>sadEkadivasasyArTe yatra syAdripusaMgamaH ..</s>
 </S>
 </edit>
 ; ------------------------------------------------
 <edit>
 <info L="4309.1" page="2.431" gtypes="HS"/>
 <HS>
-<s>prARahatostu vinAyaH</s> s. Spruch 2641.
+<s>prARahetostu vinayaH</s> s. Spruch 2641.
 </HS>
 </edit>
 ; ------------------------------------------------
@@ -19779,7 +19779,7 @@
 <s>prARAGAtAnnivfttiH paraDanaharaRe saMyamaH satyavAkyaM</s>
 <s>kAle SaktyA pradAnaM yuvatijanakaTAmUkaBAvaH parezAm .</s>
 <s>tfzRAsrotoviBaNgo guruzu ca vinayaH sarvaBUtAnukampA</s>
-<s>sAmAnyaH sarvaSAstrozvanupahataviDiH SreyasAmeza panTAH ..</s>
+<s>sAmAnyaH sarvaSAstrezvanupahataviDiH SreyasAmeza panTAH ..</s>
 </S>
 </edit>
 ; ------------------------------------------------
@@ -19809,9 +19809,9 @@
 <info L="4312" page="2.432" gtypes="S,D,F"/>
 <S n="4312">
 <s>prARAnAM bata kiM bruve kaWinatAM tEreva sAvizkftA</s>
-<s>nizkrAmanti kadAcideva hi na ye yAYcAvacoBiH samam .</s>
+<s>nizkrAmanti kadAcideva hi na ye yAcYAvacoBiH samam .</s>
 <s>AtmAnaM punarAkzipAmi viditasTEryo 'pi yezAmaho</s>
-<s>miTuASaNkitatadviyogaviDuro yatprArTaye sarvaSaH ..</s>
+<s>miTyASaNkitatadviyogaviDuro yatprArTaye sarvaSaH ..</s>
 </S>
 </edit>
 ; ------------------------------------------------
@@ -19819,7 +19819,7 @@
 <info L="4313" page="2.432" gtypes="S,D,F,V3"/>
 <S n="4313">
 <s>prARA yaTAtmano 'BIzwA BUtAnAmapi te taTA .</s>
-<s>AtmOpamyena sarvatra dayAM kurvanti sAGavaH ..</s>
+<s>AtmOpamyena sarvatra dayAM kurvanti sADavaH ..</s>
 </S>
 </edit>
 ; ------------------------------------------------
@@ -19849,8 +19849,8 @@
 <edit>
 <info L="4316" page="2.433" gtypes="S,D,F"/>
 <S n="4316">
-<s>praRErapi hite vfttiradroho vyAjavarjanam .</s>
-<s>AtmanIva priyADAnametabmEtrImahAvratam ..</s>
+<s>prARErapi hite vfttiradroho vyAjavarjanam .</s>
+<s>AtmanIva priyADAnametanmEtrImahAvratam ..</s>
 </S>
 </edit>
 ; ------------------------------------------------
@@ -19901,7 +19901,7 @@
 <edit>
 <info L="4321" page="2.434" gtypes="S,D,F"/>
 <S n="4321">
-<s>prAptarTaM tu yo mohAtsAntvanEH pratimuYcati .</s>
+<s>prAptamarTaM tu yo mohAtsAntvanEH pratimuYcati .</s>
 <s>sa taTA vaYcite mUQo makaraH kapinA yaTA ..</s>
 </S>
 </edit>
@@ -19910,7 +19910,7 @@
 <info L="4322" page="2.434" gtypes="S,D,F"/>
 <S n="4322">
 <s>prAptavidyArTaSilpAnAM deSAntaranivAsinAm .</s>
-<s>kroSamatro 'pi BUBAgaH SatayojanavadBavet ..</s>
+<s>kroSamAtro 'pi BUBAgaH SatayojanavadBavet ..</s>
 </S>
 </edit>
 ; ------------------------------------------------
@@ -19941,7 +19941,7 @@
 <edit>
 <info L="4326" page="2.435" gtypes="S,D,F"/>
 <S n="4326">
-<s>prAptarTagrahaRaM dravyaparivarto 'nuroDanam .</s>
+<s>prAptArTagrahaRaM dravyaparivarto 'nuroDanam .</s>
 <s>upekzA budDihInatvaM Bogo 'mAtyasya dUzaRam ..</s>
 </S>
 </edit>
@@ -19956,9 +19956,9 @@
 <edit>
 <info L="4327" page="2.435" gtypes="S,D,F"/>
 <S n="4327">
-<s>prAptAH SriyaH sakalakAmaduGAstataH</s>
-<s>kiM dattaM padaM Sirasi vidvizatAM tataH kim .</s>
-<s>samAnitAH praRayino viBavEstataH kiM</s>
+<s>prAptAH SriyaH sakalakAmaduGAstataH kiM</s>
+<s>dattaM padaM Sirasi vidvizatAM tataH kim .</s>
+<s>saMmAnitAH praRayino viBavEstataH kiM</s>
 <s>kalpaM sTitaM tanuBftAM tanuBistataH kim ..</s>
 </S>
 </edit>
@@ -19966,7 +19966,7 @@
 <edit>
 <info L="4328" page="2.435" gtypes="S,D,F"/>
 <S n="4328">
-<s>prApte Baye paritrARaM prItiviSrambaBAjanam .</s>
+<s>prApte Baye paritrARaM prItiviSramBaBAjanam .</s>
 <s>kena ratnamidaM sfzwaM mitramityakzaradvayam ..</s>
 </S>
 </edit>
@@ -19982,7 +19982,7 @@
 <edit>
 <info L="4330" page="2.436" gtypes="S,D,F,V5"/>
 <S n="4330">
-<s>prApya vApyuttamaM janma labDA cendriyasOzWavam .</s>
+<s>prApya cApyuttamaM janma labDvA cendriyasOzWavam .</s>
 <s>na vettyAtmahitaM yastu sa BavedAtmaGAtakaH ..</s>
 </S>
 </edit>
@@ -19990,7 +19990,7 @@
 <edit>
 <info L="4331" page="2.436" gtypes="S,D,F"/>
 <S n="4331">
-<s>prApyavittaM jaqAstUrRaM nirvftiM yAnti nAnyaTA .</s>
+<s>prApya vittaM jaqAstUrRaM nirvftiM yAnti nAnyaTA .</s>
 <s>toyamAsAdya garjanti na riktAH stanayitnavaH ..</s>
 </S>
 </edit>
@@ -19998,7 +19998,7 @@
 <edit>
 <info L="4332" page="2.436" gtypes="S,D,F"/>
 <S n="4332">
-<s>prAyyApadaM na vyaTate kadAcidudyogamanvicCati cApramattaH .</s>
+<s>prApyApadaM na vyaTate kadAcidudyogamanvicCati cApramattaH .</s>
 <s>duHKaM ca kAle sahate mahAtmA DuraMDarastasya jitAH sapatnAH ..</s>
 </S>
 </edit>
@@ -20007,7 +20007,7 @@
 <info L="4333" page="2.436" gtypes="S,D,F"/>
 <S n="4333">
 <s>prAyaH kandukapAtenotpatatyAryaH patannapi .</s>
-<s>taTA tvanAryaH patati mftpaRqapatanaM yatHA ..</s>
+<s>taTA tvanAryaH patati mftpiRqapatanaM yaTA ..</s>
 </S>
 </edit>
 ; ------------------------------------------------
@@ -20030,7 +20030,7 @@
 <edit>
 <info L="4336" page="2.437" gtypes="S,D,F"/>
 <S n="4336">
-<s>prAyaH santyupadeSArhA DImanto naqASayAH .</s>
+<s>prAyaH santyupadeSArhA DImanto na jaqASayAH .</s>
 <s>tilAH kusumasOganDyavAhino na yavAH kvacit ..</s>
 </S>
 </edit>
@@ -20055,7 +20055,7 @@
 <info L="4339" page="2.437" gtypes="S,D,F,V5"/>
 <S n="4339">
 <s>prAyeRa DaninAmeva DanaloBo nirantaram .</s>
-<s>paSya kowidvayopetaM lakzAya praRataM GanuH ..</s>
+<s>paSya kowidvayopetaM lakzAya praRataM DanuH ..</s>
 </S>
 </edit>
 ; ------------------------------------------------
@@ -20071,7 +20071,7 @@
 <edit>
 <info L="4341" page="2.438" gtypes="S,D,F"/>
 <S n="4341">
-<s>prAyeRAtra kalAnvitaM kukulajAH SrIvallaBaM durBagA</s>
+<s>prAyeRAtra kulAnvitaM kukulajAH SrIvallaBaM durBagA</s>
 <s>dAtAraM kfpaRA fjUnanfjavo vittAnvitaM nirDanAH .</s>
 <s>vErUpyopahatASca kAntavapuzaM DarmASrayaM pApino</s>
 <s>nAnASAstravicakzaRaM ca puruzaM nindanti mUrKA janAH ..</s>
@@ -20084,7 +20084,7 @@
 <s>prAraByate na Kalu viGnaBayena nIcEH</s>
 <s>prAraBya viGnavihatA viramanti maDyAH .</s>
 <s>viGnEH punaH punarapi pratihanyamAnAH</s>
-<s>prArabDamuttamajanAnA na parityajInti ..</s>
+<s>prArabDamuttamajanA na parityajanti ..</s>
 </S>
 </edit>
 ; ------------------------------------------------
@@ -20092,14 +20092,14 @@
 <info L="4343" page="2.438" gtypes="S,D,F"/>
 <S n="4343">
 <s>prArTanApi hi sA sevyA yA parasyopakArikA .</s>
-<s>svArTam prArTanAM vettu kzete kzArAvasecanam ..</s>
+<s>svArTaM ca prArTanAM vettu kzete kzArAvasecanam ..</s>
 </S>
 </edit>
 ; ------------------------------------------------
 <edit>
 <info L="4344" page="2.439" gtypes="S,D,F"/>
 <S n="4344">
-<s>prAleyaleSamiSre maruti prABAtike ce vAti jaqe .</s>
+<s>prAleyaleSamiSre maruti prABAtike ca vAti jaqe .</s>
 <s>guRadozajYaH puruzo jalena kaH SItamapanayati ..</s>
 </S>
 </edit>
@@ -20108,7 +20108,7 @@
 <info L="4345" page="2.439" gtypes="S,D,F,V5"/>
 <S n="4345">
 <s>prAvfzeRyasya mAlinyaM dozaH ko 'BIzwavarziRaH .</s>
-<s>SaradaBrasya SuBratvam vada kutropayujyate ..</s>
+<s>SaradaBrasya SuBratvaM vada kutropayujyate ..</s>
 </S>
 </edit>
 ; ------------------------------------------------
@@ -20122,8 +20122,8 @@
 <edit>
 <info L="4346" page="2.439" gtypes="S,D,F"/>
 <S n="4346">
-<s>priyaH prajAnAM dAtEva na punardrAviReSvaraH .</s>
-<s>AgacCanvAYCito lokErvArudo na tu vAriDiH ..</s>
+<s>priyaH prajAnAM dAtEva na punardraviReSvaraH .</s>
+<s>AgacCanvAYCito lokErvArido na tu vAriDiH ..</s>
 </S>
 </edit>
 ; ------------------------------------------------
@@ -20137,7 +20137,7 @@
 <edit>
 <info L="4347" page="2.439" gtypes="S,D,F"/>
 <S n="4347">
-<s>priyapurato yavatInAM tAvatpadamAtanotu hfdi mAnaH .</s>
+<s>priyapurato yuvatInAM tAvatpadamAtanotu hfdi mAnaH .</s>
 <s>Bavati na yAvaccandanasuraBirmaDunirmalaH pavanaH ..</s>
 </S>
 </edit>
@@ -20148,7 +20148,7 @@
 <s>priyamanucitaM kzmApaRyastrIkzaRapraBurISvaro</s>
 <s>ramayati yato DiktAnBftyAYSvavfttisuKArTinaH .</s>
 <s>nfpamapaTagaM pAnti prARAnupekzya nijAnapi</s>
-<s>prasaBamiha ye tEH pUteyaM mahmatmaBirurvarI ..</s>
+<s>prasaBamiha ye tEH pUteyaM mahAtmaBirurvarI ..</s>
 <pb n="2.440"/>
 </S>
 </edit>
@@ -20157,14 +20157,14 @@
 <info L="4349" page="2.440" gtypes="S,D,F"/>
 <S n="4349">
 <s>priyamevABiDAtavyaM nityaM satsu dvizatsu ca .</s>
-<s>SiKIva kekAnmaDuraH priyavAkkasya na priyaH ..</s>
+<s>SiKIva kekAmaDuraH priyavAkkasya na priyaH ..</s>
 </S>
 </edit>
 ; ------------------------------------------------
 <edit>
 <info L="4350" page="2.440" gtypes="S,D,F"/>
 <S n="4350">
-<s>priya brUyAdakfpaRaH SUraH syAdavikatTanaH .</s>
+<s>priyaM brUyAdakfpaRaH SUraH syAdavikatTanaH .</s>
 <s>dAtA nApAtravarzI syAtpragalBaH syAdanizWuraH ..</s>
 </S>
 </edit>
@@ -20172,15 +20172,15 @@
 <edit>
 <info L="4351" page="2.440" gtypes="S,D,F"/>
 <S n="4351">
-<s>priyavAkyapradAnena sarve tuzyanti jantavaH .</s>
-<s>tsmAttadeva vaktavyaM vacane kiM daridratA ..</s>
+<s>priyavacanakfto 'pi yozitAM dayitajanAnunayo rasAdfte .</s>
+<s>praviSati hfdayaM na tadvidAM maRiriva kftrimarAgayojitaH ..</s>
 </S>
 </edit>
 ; ------------------------------------------------
 <edit>
 <info L="4352" page="2.440" gtypes="S,D,F,V3,V5"/>
 <S n="4352">
-<s>priyavAkyapradAnena sarve tuzyAnti jantavaH .</s>
+<s>priyavAkyapradAnena sarve tuzyanti jantavaH .</s>
 <s>tasmAttadevaM vaktavyaM vacane kiM daridratA ..</s>
 </S>
 </edit>
@@ -20189,9 +20189,9 @@
 <info L="4353" page="2.440" gtypes="S,D,F"/>
 <S n="4353">
 <s>priyasaKivipaddaRqaprAntaprapAtaparaMparA-</s>
-<s>paricayacalaccitaM cakre niDAya viDiH KalaH .</s>
+<s>paricayacalaccittaM cakre niDAya viDiH KalaH .</s>
 <s>mfdamiva balAtpiRqIkftya pragalBakulAlava-</s>
-<s>dDamayati mano no jAnImaH kimatra viDrAsyati ..</s>
+<s>dBramayati mano no jAnImaH kimatra viDAsyati ..</s>
 <pb n="2.441"/>
 </S>
 </edit>
@@ -20200,7 +20200,7 @@
 <info L="4354" page="2.441" gtypes="S,D,F"/>
 <S n="4354">
 <s>priyA nyAyyA vfttirmalinamasuBaNge 'pyasukara-</s>
-<s>masanto nAByarTyAH suhfdapi na yAcya kfSaDanaH .</s>
+<s>masanto nAByarTyAH suhfdapi na yAcyaH kfSaDanaH .</s>
 <s>vipadyuccEH sTeyaM padamanuviDeyaM ca mahatAM</s>
 <s>satAM kenoddizwaM vizamamasiDArAvratamidam ..</s>
 </S>
@@ -20217,8 +20217,8 @@
 <edit>
 <info L="4356" page="2.441" gtypes="S,D,F,V3"/>
 <S n="4356">
-<s>priyA hitASca ye rAjYe grAhyavAkyA viSezataH .</s>
-<s>SrAyetpArTavaM vidvAMstaddAreREva nAnyaTA ..</s>
+<s>priyA hitASca ye rAjYo grAhyavAkyA viSezataH .</s>
+<s>ASrayetpArTivaM vidvAMstaddUreREva nAnyaTA ..</s>
 </S>
 </edit>
 ; ------------------------------------------------
@@ -20280,7 +20280,7 @@
 <edit>
 <info L="4363" page="2.443" gtypes="S,D,F"/>
 <S n="4363">
-<s>prIRAti paH sucaritEH pitaraM sa putro</s>
+<s>prIRAti yaH sucaritEH pitaraM sa putro</s>
 <s>yadBartureva hitamicCati tatkalatram .</s>
 <s>tanmitramApadi suKe ca samakriyaM ya-</s>
 <s>detattrayaM jagati puRyakfto laBante ..</s>
@@ -20292,7 +20292,7 @@
 <S n="4364">
 <s>preyAMste 'haM tvamapi ca mama preyasIti pravAda-</s>
 <s>stvaM me prARA ahamapi tavAsmIti hanta pralApaH .</s>
-<s>tvaM me te syAmahapi ca yattacca no sADu rADe</s>
+<s>tvaM me te syAmahamapi ca yattacca no sADu rADe</s>
 <s>vyAhAre nO nahi samucito yuzmadasmatprayogaH ..</s>
 </S>
 </edit>
@@ -20315,7 +20315,7 @@
 <edit>
 <info L="4366" page="2.444" gtypes="S,D,F"/>
 <S n="4366">
-<s>prodyatprOQapriyaNgudyutiBfti vidalankundamAdyaddirePe</s>
+<s>prodyatprOQapriyaNgudyutiBfti vidalankundamAdyaddvirePe</s>
 <s>kAle prAleyavAtapracayavikasitoddAmamandAradAmni .</s>
 <s>yezAM no kaRWalagnA kzaRamapi tuhinotkampivakzomfgAkzI</s>
 <s>tezAmAyAminIyaM yamasadanasamA yAminI yAti yUnAm ..</s>
@@ -20350,7 +20350,7 @@
 <edit>
 <info L="4369" page="2.444" gtypes="S,D,F"/>
 <S n="4369">
-<s>PalaM katakavfkzasya yadyapyAmbuprasAdakam .</s>
+<s>PalaM katakavfkzasya yadyapyambuprasAdakam .</s>
 <s>na nAmagrahaRAdeva tasya vAri prasIdati ..</s>
 <pb n="2.445"/>
 </S>
@@ -20367,7 +20367,7 @@
 <edit>
 <info L="4370.1" page="2.445" gtypes="HS"/>
 <HS>
-<s>PalatIha pUrvasukfm</s> s. Spruch <s>vikalamiha pUrvasukftam</s>.
+<s>PalatIha pUrvasukftam</s> s. Spruch <s>vikalamiha pUrvasukftam</s>.
 </HS>
 </edit>
 ; ------------------------------------------------
@@ -20393,7 +20393,7 @@
 <info L="4373" page="2.445" gtypes="S,D,F"/>
 <S n="4373">
 <s>Palasya kAraRaM puzpaM PalaM puzpavinASanam .</s>
-<s>Darmasya kAraRaM puRyaM DarmaH puRyAvinASanaH ..</s>
+<s>Darmasya kAraRaM puRyaM DarmaH puRyavinASanaH ..</s>
 </S>
 </edit>
 ; ------------------------------------------------
@@ -20450,7 +20450,7 @@
 <info L="4379" page="2.447" gtypes="S,D,F"/>
 <S n="4379">
 <s>badDAmbaracaramArgaM vyapagataDUmaM sadA mahABayadam .</s>
-<s>sandamatiH kaH praviSati hutASanaM svecCayA manujaH ..</s>
+<s>mandamatiH kaH praviSati hutASanaM svecCayA manujaH ..</s>
 </S>
 </edit>
 ; ------------------------------------------------
@@ -20489,7 +20489,7 @@
 <info L="4383" page="2.448" gtypes="S,D,F,V2,V3"/>
 <S n="4383">
 <s>banDAya vizayAsaktaM muktyE nirvizayaM manaH .</s>
-<s>mana eva manuzyARaM kAraRaM banDamokzayoH ..</s>
+<s>mana eva manuzyARAM kAraRaM banDamokzayoH ..</s>
 </S>
 </edit>
 ; ------------------------------------------------
@@ -20533,8 +20533,8 @@
 <edit>
 <info L="4386" page="2.448" gtypes="S,D,F"/>
 <S n="4386">
-<s>banDuraoyahite yuktaH SatrustaM parivarjayet .</s>
-<s>anuraktaM viraktaM vA tanmitrAmupakAri yat ..</s>
+<s>banDurapyahite yuktaH SatrustaM parivarjayet .</s>
+<s>anuraktaM viraktaM vA tanmitramupakAri yat ..</s>
 </S>
 </edit>
 ; ------------------------------------------------
@@ -20550,7 +20550,7 @@
 <info L="4388" page="2.449" gtypes="S,D,F"/>
 <S n="4388">
 <s>balaM vidyA ca viprARAM rAjYAM sEnyaM balaM taTA .</s>
-<s>balaM vittaM ca vESyAnAM SudrARAM cAkanizWatA ..</s>
+<s>balaM vittaM ca vESyAnAM SUdrARAM cAkanizWatA ..</s>
 </S>
 </edit>
 ; ------------------------------------------------
@@ -20589,7 +20589,7 @@
 <info L="4392" page="2.449" gtypes="S,D,F"/>
 <S n="4392">
 <s>balamaSvaSca sEnyAnAM prAkAro jaNgamo mataH .</s>
-<s>tasmAdaSvADike rAjA vijayI sTalavigrahe ..</s>
+<s>tasmAdaSvADiko rAjA vijayI sTalavigrahe ..</s>
 </S>
 </edit>
 ; ------------------------------------------------
@@ -20600,7 +20600,7 @@
 <s>yattu bAhubalaM nAma kanizWaM balamucyate ..</s>
 </S>
 <S n="4394">
-<s>amAtyalABA BadraM te dvitIyaM balamucyate .</s>
+<s>amAtyalABo BadraM te dvitIyaM balamucyate .</s>
 <s>tftIyaM DanalABaM tu balamAhurmanIziRaH ..</s>
 </S>
 <S n="4395">
@@ -20623,7 +20623,7 @@
 <edit>
 <info L="4397" page="2.450" gtypes="S,D,F"/>
 <S n="4397">
-<s>balavadvihItastu nfpo 'nAnyapratikriyaH .</s>
+<s>balavadvigfhItastu nfpo 'nanyapratikriyaH .</s>
 <s>ApannaH saMDimanvicCetkurvARaH kAlayApanAm ..</s>
 </S>
 </edit>
